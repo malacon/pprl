@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 12
+svn-commit*
+
+K 13
+svn:mergeinfo
+V 57
+/plugins/apostropheBlogPlugin/branches/1.4:1429-1813,2700
+END

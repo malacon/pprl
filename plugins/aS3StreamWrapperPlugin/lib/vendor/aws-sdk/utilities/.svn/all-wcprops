@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities
+END
+request.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/request.class.php
+END
+batchrequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/batchrequest.class.php
+END
+info.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/info.class.php
+END
+response.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/response.class.php
+END
+policy.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/policy.class.php
+END
+stacktemplate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/stacktemplate.class.php
+END
+stepconfig.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/stepconfig.class.php
+END
+hadoopbase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/hadoopbase.class.php
+END
+manifest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/manifest.class.php
+END
+hadoopstep.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/hadoopstep.class.php
+END
+hadoopbootstrap.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/hadoopbootstrap.class.php
+END
+json.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/json.class.php
+END
+complextype.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/complextype.class.php
+END
+simplexml.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/simplexml.class.php
+END
+utilities.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/utilities.class.php
+END
+mimetypes.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/mimetypes.class.php
+END
+gzipdecode.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/gzipdecode.class.php
+END
+array.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/utilities/array.class.php
+END

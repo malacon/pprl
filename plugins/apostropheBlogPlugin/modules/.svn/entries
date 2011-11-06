@@ -1,0 +1,52 @@
+10
+
+dir
+4283
+http://svn.apostrophenow.org/plugins/apostropheBlogPlugin/branches/1.5/modules
+http://svn.apostrophenow.org
+
+
+
+2011-11-02T15:14:37.085402Z
+4277
+kerry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c89fab08-2f9b-42bf-8176-bd3ad6bee547
+
+aEvent
+dir
+
+aBlog
+dir
+
+aEventSlot
+dir
+
+aBlogSlot
+dir
+
+aEventSingleSlot
+dir
+
+aBlogSingleSlot
+dir
+
+aEventAdmin
+dir
+
+aBlogAdmin
+dir
+

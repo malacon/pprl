@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services
+END
+s3.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/s3.class.php
+END
+cloudformation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/cloudformation.class.php
+END
+rds.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/rds.class.php
+END
+ses.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/ses.class.php
+END
+cloudwatch.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/cloudwatch.class.php
+END
+elb.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/elb.class.php
+END
+sns.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/sns.class.php
+END
+as.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/as.class.php
+END
+elasticache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/elasticache.class.php
+END
+iam.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/iam.class.php
+END
+sqs.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/sqs.class.php
+END
+sdb.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/sdb.class.php
+END
+elasticbeanstalk.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/elasticbeanstalk.class.php
+END
+ec2.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/ec2.class.php
+END
+sts.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/sts.class.php
+END
+importexport.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/importexport.class.php
+END
+cloudfront.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/cloudfront.class.php
+END
+emr.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/services/emr.class.php
+END

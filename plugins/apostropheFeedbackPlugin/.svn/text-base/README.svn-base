@@ -1,0 +1,47 @@
+# Apostrophe Feedback Plugin for Apostrophe 1.5
+
+For complete and extensive documentation of Apostrophe please visit
+[trac.apostrophenow.org](http://trac.apostrophenow.org/wiki/ManualOverview). There you'll find a complete manual organized much more conveniently than is possible with a README file.
+
+The Apostrophe Feedback Plugin provides an easy way to add a simple form to your site that allows a visitor to the site to submit feedback, presumably reporting bugs found on the site.
+The form grabs the current URL of the page that you're on and pre-populates a URL field and then e-mails off the submission to an address you specify.
+Simple!
+
+Installation:
+
+0. Enable the apostropheFeedbackPlugin in your project's projectConfiguration Class [ /config/projectConfiguration.class.php ] :
+
+1. Add the following entry into your project's app.yml file [ /apps/frontend/config/app.yml ] :
+
+aFeedback:
+	email_auto: 			'your@email'
+	# If not specified, same as email_auto. This is the address suggested
+	# via a mailto: link if the automatic feedback form somehow fails
+	email_manual: 		'your_other@email'	# Optional
+  # May have to be different at some point depending on your agreement with Akismet
+  akismet_siteurl: 	'http://yourdomain'	# Optional
+  akismet_apikey: 	'yourkey'						# Optional
+
+
+2. The feedback plugin requires some CSS and Javascript to fully function. Add these assets to your project level view.yml [ /apps/frontend/config/view.yml ] :
+
+stylesheets:
+  - /apostropheFeedbackPlugin/css/aFeedback.less
+javascripts:
+  - /apostropheFeedbackPlugin/js/aFeedback.js
+
+
+3. Enable the module in your project's settings.yml [ /apps/frontend/config/settings.yml ] :
+
+	enabled_modules:
+		- aFeedback
+
+Note: depending on your environment, you may have to configure it to be able to send e-mail, that can be handled in your project's factories.yml [ /apps/frontend/config/factories.yml ]
+
+Usage:
+
+<php include_partial('aFeedback/feedbackForm'); ?>
+
+It's easy to use the feedback form in your project, simply include the form partial anywhere it is needed.
+If you prefer to style the form yourself, feel free to omit aFeedback.css
+

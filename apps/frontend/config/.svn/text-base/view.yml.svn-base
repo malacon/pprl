@@ -1,0 +1,41 @@
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    #title:        symfony project
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+
+  stylesheets:
+    # HTML 5 fun fact: attributes starting with 'data-' are always legal even if they are not
+    # otherwise mentioned in the HTML 5 standard. Setting a consistent 'data-asset-group' attribute
+    # for things that are loaded all the time forces the Apostrophe minifier to group them
+    # together. Anything you then bring in with your own use_javascript or use_stylesheet calls
+    # will, by default, be minified separately, avoiding the need to re-minify and re-send all of the stuff
+    # you have already downloaded just because there's one more file in the set for that one action.
+    #
+    # Anything you add to view.yml (and therefore load 100% of the time) should also have data-asset-group: global
+    #
+    # See also app_a_asset_group which covers the automatically loaded CSS and JS files of Apostrophe. By default
+    # that is also global since Apostrophe is in the layout = in pretty much every action
+
+    - /apostropheExtraSlotsPlugin/css/aExtraSlots.less: { data-asset-group: global }      # Apostrophe Extra Slots Plugin - Styles
+    - /apostropheFeedbackPlugin/css/aFeedback.less: { data-asset-group: global }          # Apostrophe Feedback Plugin - Styles
+    - /apostropheAwesomeLoginPlugin/css/aAwesomeLogin.less: { data-asset-group: global }  # Apostorphe Awesome Login Plugin - Styles for the login form / logout prompt
+    - main.less: { position: last, data-asset-group: global }                             # Sandbox Default Styles
+
+  javascripts:
+    - /apostropheBlogPlugin/js/aBlog.js: { data-asset-group: global }                     # Apostrophe Blog Plugin
+    - /apostropheExtraSlotsPlugin/js/aExtraSlots.js: { data-asset-group: global }         # Apostrophe Extra Slots Plugin - Maps Slot
+    - /apostropheFeedbackPlugin/js/aFeedback.js: { data-asset-group: global }             # Apostrophe Feedback Plugin
+    - /apostropheAwesomeLoginPlugin/js/jquery.tmpl.js: { data-asset-group: global }       # Apostrophe Awesome Login Plugin - Powers the template being used
+    - /apostropheAwesomeLoginPlugin/js/aAwesomeLogin.js: { data-asset-group: global }     # Apostrophe Awesome Login Plugin - sets up the keylisteners, generates/destroys the form/prompts
+    - site.js: { position: last, data-asset-group: global }                               # Sandbox Default Javascript
+
+
+
+  has_layout:     true
+  layout:         layout

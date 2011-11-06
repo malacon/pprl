@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3597/plugins/apostropheExtraSlotsPlugin/trunk/modules/aBlogSlideshowSlot/templates
+END
+_editView.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/3597/plugins/apostropheExtraSlotsPlugin/trunk/modules/aBlogSlideshowSlot/templates/_editView.php
+END
+_normalView.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/3597/plugins/apostropheExtraSlotsPlugin/trunk/modules/aBlogSlideshowSlot/templates/_normalView.php
+END
+_singleColumnTemplate_slideshow.php.example
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/3580/plugins/apostropheExtraSlotsPlugin/trunk/modules/aBlogSlideshowSlot/templates/_singleColumnTemplate_slideshow.php.example
+END

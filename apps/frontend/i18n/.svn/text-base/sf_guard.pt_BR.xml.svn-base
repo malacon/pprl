@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file original="sf_guard" source-language="en_US" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>Forgot your password?</source>
+                <target>Esqueceu sua senha?</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Want to register?</source>
+                <target>Quer se cadastrar?</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>The username and/or password is invalid.</source>
+                <target>Nome de usuário e/ou senha não são válidos.</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Required.</source>
+                <target>Obrigatório.</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>First name</source>
+                <target>Nome</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Last name</source>
+                <target>Sobrenome</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

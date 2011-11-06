@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/3903/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs
+END
+import.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/import.less
+END
+mixin_functions.less
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/mixin_functions.less
+END
+media.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/media.less
+END
+nested.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/nested.less
+END
+accessors.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/accessors.less
+END
+keyframes.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/keyframes.less
+END
+attributes.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/attributes.less
+END
+accessors.less.disable
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/3903/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/accessors.less.disable
+END
+compile_on_mixin.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/compile_on_mixin.less
+END
+math.less
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/math.less
+END
+builtins.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/builtins.less
+END
+misc.less
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/misc.less
+END
+site_demos.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/site_demos.less
+END
+mixin_merging.less
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/mixin_merging.less
+END
+scopes.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3903/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/scopes.less
+END
+mixin_merging.less.disable
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/3903/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/mixin_merging.less.disable
+END
+colors.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/colors.less
+END
+mixins.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/mixins.less
+END
+font_family.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/font_family.less
+END
+variables.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3491/plugins/apostrophePlugin/branches/1.5/lib/lessphp/tests/inputs/variables.less
+END

@@ -1,0 +1,77 @@
+10
+
+dir
+2
+file:///var/www/myrepo/pprl/lib/form/doctrine
+file:///var/www/myrepo
+
+
+
+2011-11-04T13:40:28.249884Z
+2
+craig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4bf1653b-4a52-40e8-a231-e2185a91c816
+
+BaseFormDoctrine.class.php
+file
+
+
+
+
+2010-01-18T22:08:12.000000Z
+76e4cc00bf78aa943581b674918c9003
+2011-11-04T13:40:28.249884Z
+2
+craig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+249
+
+sfDoctrineGuardPlugin
+dir
+
+sfDoctrineActAsTaggablePlugin
+dir
+
+apostrophePlugin
+dir
+
+apostropheBlogPlugin
+dir
+
+base
+dir
+

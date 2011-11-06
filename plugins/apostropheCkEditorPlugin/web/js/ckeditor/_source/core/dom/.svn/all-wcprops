@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/text.js
+END
+node.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/node.js
+END
+walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/walker.js
+END
+domobject.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/domobject.js
+END
+elementpath.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/elementpath.js
+END
+window.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/window.js
+END
+rangelist.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/rangelist.js
+END
+element.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/element.js
+END
+range.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/range.js
+END
+document.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/document.js
+END
+event.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/event.js
+END
+nodelist.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/nodelist.js
+END
+comment.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/comment.js
+END
+documentfragment.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/3603/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core/dom/documentfragment.js
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/requestcore
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/requestcore/cacert.pem
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/requestcore/LICENSE
+END
+requestcore.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/requestcore/requestcore.class.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/requestcore/README.md
+END

@@ -1,0 +1,86 @@
+.a-ui.a-feedback-form { margin:10px 0; }
+.a-ui.a-feedback-form .a-form-row {
+  clear:both;
+  margin:0 0 20px 0;
+}
+.a-ui.a-feedback-form .a-form-row label {
+  display:block;
+  float:none;
+  width:auto;
+  clear:both;
+  min-width:180px;
+  max-width:240px;
+  line-height:1.2;
+  margin:0 0 2px 0;
+}
+.a-ui.a-feedback-form .a-form-row .a-form-field {
+  display:block;
+  float:none;
+  clear:both;
+  zoom:1;
+  margin:0;
+  width:auto;
+}
+.a-ui.a-feedback-form .a-form-row .a-form-field:after, .a-ui.a-feedback-form .a-form-row .a-form-field:before {
+  content:"\0020";
+  display:block;
+  height:0;
+  visibility:hidden;
+}
+.a-ui.a-feedback-form .a-form-row .a-form-field:after { clear:both; }
+.a-ui.a-feedback-form .a-form-row .a-form-field input, .a-ui.a-feedback-form .a-form-row .a-form-field textarea {
+  width:99%;
+  min-width:180px;
+  max-width:240px;
+}
+.a-ui.a-feedback-form .a-form-row .a-form-errors { zoom:1; }
+.a-ui.a-feedback-form .a-form-row .a-form-errors:after, .a-ui.a-feedback-form .a-form-row .a-form-errors:before {
+  content:"\0020";
+  display:block;
+  height:0;
+  visibility:hidden;
+}
+.a-ui.a-feedback-form .a-form-row .a-form-errors:after { clear:both; }
+.a-ui.a-feedback-form .a-form-row .a-help {
+  margin:5px 0;
+  max-width:240px;
+}
+.a-ui.a-feedback-form .a-form-row.submit { margin:0; }
+.a-feedback-footer {
+  clear:both;
+  float:left;
+  margin:20px 0;
+  position:relative;
+}
+.a-feedback-footer .a-feedback-form-container {
+  display:none;
+  background:#ffffff;
+  padding:10px;
+  border:1px solid #dddddd;
+  -moz-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -webkit-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -opera-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -khtml-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -webkit-border-radius:3px;
+  -moz-border-radius:3px;
+  border-radius:3px;
+  width:240px;
+  padding:20px;
+  height:0;
+  -webkit-transition:all 0.15s ease;
+  -moz-transition:all 0.15s ease;
+  -o-transition:all 0.15s ease;
+  transition:all 0.15s ease;
+}
+.a-feedback-footer.open { z-index:999; }
+.a-feedback-footer.open .a-feedback-form-container {
+  position:absolute;
+  top:0;
+  left:0;
+  height:auto;
+}
+.a-feedback-submitted {
+  float:left;
+  clear:both;
+}

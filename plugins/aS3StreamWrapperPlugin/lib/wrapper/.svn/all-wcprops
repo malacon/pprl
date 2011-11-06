@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/wrapper
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/wrapper/.gitignore
+END
+aS3UpdateMimeTypesList.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/wrapper/aS3UpdateMimeTypesList.php
+END
+aS3StreamWrapperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/wrapper/aS3StreamWrapperTest.php
+END
+aS3StreamWrapperMimeTypes.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/wrapper/aS3StreamWrapperMimeTypes.class.php
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/wrapper/mime.types
+END
+aS3StreamWrapper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/wrapper/aS3StreamWrapper.class.php
+END

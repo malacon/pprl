@@ -1,0 +1,43 @@
+10
+
+dir
+2
+file:///var/www/myrepo/pprl/apps/frontend
+file:///var/www/myrepo
+
+
+
+2011-11-04T13:40:28.249884Z
+2
+craig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4bf1653b-4a52-40e8-a231-e2185a91c816
+
+i18n
+dir
+
+config
+dir
+
+lib
+dir
+
+modules
+dir
+
+templates
+dir
+

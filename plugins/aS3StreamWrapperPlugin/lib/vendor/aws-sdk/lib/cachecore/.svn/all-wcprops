@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore
+END
+cachepdo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore/cachepdo.class.php
+END
+cacheapc.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore/cacheapc.class.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore/LICENSE
+END
+cachecore.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore/cachecore.class.php
+END
+cachexcache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore/cachexcache.class.php
+END
+icachecore.interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore/icachecore.interface.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore/README
+END
+cachefile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore/cachefile.class.php
+END
+cachemc.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/cachecore/cachemc.class.php
+END

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file original="messages" source-language="en_US" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>Username or email</source>
+                <target>Nome de login ou e-mail</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Password</source>
+                <target>Senha</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>The username and/or password is invalid.</source>
+                <target>Nome de usuário e/ou senha não são válidos.</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Required.</source>
+                <target>Obrigatório.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

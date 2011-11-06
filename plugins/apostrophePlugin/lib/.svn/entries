@@ -1,0 +1,94 @@
+10
+
+dir
+4283
+http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/lib
+http://svn.apostrophenow.org
+
+
+
+2011-11-03T21:05:58.877439Z
+4283
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c89fab08-2f9b-42bf-8176-bd3ad6bee547
+
+helper
+dir
+
+test
+dir
+
+session
+dir
+
+widget
+dir
+
+filter
+dir
+
+toolkit
+dir
+
+validator
+dir
+
+editor
+dir
+
+pear
+dir
+
+minify
+dir
+
+embedService
+dir
+
+vendor
+dir
+
+pager
+dir
+
+navigation
+dir
+
+model
+dir
+
+task
+dir
+
+form
+dir
+
+cache
+dir
+
+action
+dir
+
+sfFilter
+dir
+
+lessphp
+dir
+
+user
+dir
+

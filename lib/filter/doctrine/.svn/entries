@@ -1,0 +1,77 @@
+10
+
+dir
+2
+file:///var/www/myrepo/pprl/lib/filter/doctrine
+file:///var/www/myrepo
+
+
+
+2011-11-04T13:40:28.249884Z
+2
+craig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4bf1653b-4a52-40e8-a231-e2185a91c816
+
+sfDoctrineGuardPlugin
+dir
+
+sfDoctrineActAsTaggablePlugin
+dir
+
+apostrophePlugin
+dir
+
+BaseFormFilterDoctrine.class.php
+file
+
+
+
+
+2010-01-18T22:08:12.000000Z
+f7baacc4a0b55b1a2dad2e1a92442bf5
+2011-11-04T13:40:28.249884Z
+2
+craig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+281
+
+apostropheBlogPlugin
+dir
+
+base
+dir
+

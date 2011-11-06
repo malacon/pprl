@@ -1,0 +1,39 @@
+# Apostrophe Awesome Login Plugin for Apostrophe 1.5
+
+For complete and extensive documentation of Apostrophe please visit
+[trac.apostrophenow.org](http://trac.apostrophenow.org/wiki/ManualOverview). There you'll find a complete manual organized much more conveniently than is possible with a README file.
+
+The Apostrophe Awesome Login Plugin uses a hardcoded jQuery Template and some LESSCSS to give you a quickly accessible Login/Logout form.
+
+Usage:
+
+- When Logged Out:
+	Shift+Escape will bring up the login form with the username/email address field already focused for you!
+
+- When Logged In
+	Shift+Escape will bring up the logout confirmation prompt with the Logout button already focused for you. Just hit ENTER to logout!
+
+- Hitting Escape will close the prompt for you and remove it from the DOM
+
+Installation:
+
+1. Enable the plugin in your project's configuration file. 
+
+2. Publish your plugin assets to create the symlink to the web folder for the plugin
+
+3. Add these files to your project's view.yml
+
+  stylesheets:
+    - /apostropheAwesomeLoginPlugin/css/aAwesomeLogin.less  # styles for the login form / logout prompt
+
+  javascripts:
+    - /apostropheAwesomeLoginPlugin/js/jquery.tmpl.js       # powers the template being used
+    - /apostropheAwesomeLoginPlugin/js/aAwesomeLogin.js     # sets up the keylisteners, generates/destroys the form/prompts
+
+4. That's it, awesome, right?
+
+
+TODO:
+
+- Get the jQuery Templates out of the JS file and into partials or *something else* that is more customizable / reusable.
+- Make the text i18N compatible

@@ -1,0 +1,120 @@
+aSearchWord:
+  columns:
+    text:
+      type: varchar(100)
+      notnull: true
+      unique: true
+  options:
+    symfony:
+      form:   false
+      filter: false
+
+aSearchUsage:
+  columns:
+    document_id:
+      type: integer
+      notnull: true
+    word_id:
+      type: integer
+      notnull: true
+    weight:
+      type: float
+      notnull: true
+  options:
+    symfony:
+      form:   false
+      filter: false
+  relations:
+    Document:
+      local: document_id
+      class: aSearchDocument
+      foreignAlias: Usages
+      onDelete: cascade
+    Word:
+      class: aSearchWord
+      local: word_id
+      foreignAlias: Usages       
+      onDelete: cascade
+
+# To index additional models, you'll need to add additional
+# Doctrine tables in your schema, emulating those below. Note that
+# your refclass names must follow the pattern below 100%, ditto for
+# alias names and column names in the refclass, otherwise it
+# will not work
+
+aSearchDocument:
+  columns:
+    culture:
+      type: varchar(5)
+    # A serialized array, typically containing
+    # enough information to display a summary and
+    # links without the overhead of hydrating the
+    # real object
+    info:
+      type: clob
+  options:
+    symfony:
+      form:   false
+      filter: false
+
+aPageToASearchDocument:
+  columns:
+    a_search_document_id:
+      type: integer
+    # Must be your table name followed by _id
+    a_page_id:
+      type: integer
+  relations:
+    aSearchDocument:
+      local: a_search_document_id
+      foreign: id
+      class: aSearchDocument
+      onDelete: cascade
+    aPage:
+      local: a_page_id
+      foreign: id
+      class: aPage
+      onDelete: cascade
+  options:
+    symfony:
+      form:   false
+      filter: false
+  
+aPage:
+  relations:
+    aSearchDocuments:
+      class: aSearchDocument
+      refClass: aPageToASearchDocument
+      foreign: a_search_document_id
+      local: a_page_id
+
+aMediaItemToASearchDocument:
+  columns:
+    a_search_document_id:
+      type: integer
+    a_media_item_id:
+      type: integer
+  relations:
+    aSearchDocument:
+      local: a_search_document_id
+      foreign: id
+      class: aSearchDocument
+      onDelete: cascade
+    aMediaItem:
+      local: a_media_item_id
+      foreign: id
+      class: aMediaItem
+      onDelete: cascade
+  options:
+    symfony:
+      form:   false
+      filter: false
+
+aMediaItem:
+  relations:
+    aSearchDocuments:
+      class: aSearchDocument
+      refClass: aMediaItemToASearchDocument
+      foreign: a_search_document_id
+      local: a_media_item_id
+      

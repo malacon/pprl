@@ -1,0 +1,25 @@
+K 13
+svn:externals
+V 1358
+apostrophePlugin http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5
+apostropheMysqlSearchPlugin http://svn.apostrophenow.org/plugins/apostropheMysqlSearchPlugin/trunk
+apostropheBlogPlugin http://svn.apostrophenow.org/plugins/apostropheBlogPlugin/branches/1.5
+apostropheAwesomeLoginPlugin http://svn.apostrophenow.org/plugins/apostropheAwesomeLoginPlugin/trunk
+apostropheExtraSlotsPlugin http://svn.apostrophenow.org/plugins/apostropheExtraSlotsPlugin/trunk
+apostropheFeedbackPlugin http://svn.apostrophenow.org/plugins/apostropheFeedbackPlugin/trunk
+sfDoctrineGuardPlugin http://svn.symfony-project.com/plugins/sfDoctrineGuardPlugin/trunk
+sfDoctrineActAsTaggablePlugin http://svn.symfony-project.com/plugins/sfDoctrineActAsTaggablePlugin/trunk
+sfSyncContentPlugin http://svn.symfony-project.com/plugins/sfSyncContentPlugin/trunk
+sfTaskExtraPlugin http://svn.symfony-project.com/plugins/sfTaskExtraPlugin/branches/1.3
+sfFeed2Plugin http://svn.symfony-project.com/plugins/sfFeed2Plugin/branches/1.2
+sfWebBrowserPlugin http://svn.symfony-project.com/plugins/sfWebBrowserPlugin/trunk
+apostropheImportersPlugin http://svn.apostrophenow.org/plugins/apostropheImportersPlugin/trunk
+aS3StreamWrapperPlugin http://svn.github.com/punkave/aS3StreamWrapper.git
+apostropheCkEditorPlugin http://svn.apostrophenow.org/plugins/apostropheCkEditorPlugin/trunk
+
+K 10
+svn:ignore
+V 10
+.registry
+
+END

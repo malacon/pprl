@@ -1,0 +1,12 @@
+rendering: ~
+security:  ~
+
+# insert your own filters here
+
+# Cache all pages for 5 minutes for logged-out users.
+# See also app.yml to enable this for staging and prod
+aCache:
+  class: aCacheFilter
+
+cache:     ~
+execution: ~

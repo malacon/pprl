@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3850/plugins/apostropheExtraSlotsPlugin/trunk/modules/aInsetAreaSlot/templates
+END
+_insetArea.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/3458/plugins/apostropheExtraSlotsPlugin/trunk/modules/aInsetAreaSlot/templates/_insetArea.php
+END
+_topRightTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/3444/plugins/apostropheExtraSlotsPlugin/trunk/modules/aInsetAreaSlot/templates/_topRightTemplate.php
+END
+_editView.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/3850/plugins/apostropheExtraSlotsPlugin/trunk/modules/aInsetAreaSlot/templates/_editView.php
+END
+_normalView.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/3457/plugins/apostropheExtraSlotsPlugin/trunk/modules/aInsetAreaSlot/templates/_normalView.php
+END
+_topLeftTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/3460/plugins/apostropheExtraSlotsPlugin/trunk/modules/aInsetAreaSlot/templates/_topLeftTemplate.php
+END

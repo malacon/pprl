@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/yaml/lib
+END
+sfYamlInline.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/yaml/lib/sfYamlInline.php
+END
+sfYaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/yaml/lib/sfYaml.php
+END
+sfYamlDumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/yaml/lib/sfYamlDumper.php
+END
+sfYamlParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/lib/yaml/lib/sfYamlParser.php
+END

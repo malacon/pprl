@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4261/plugins/apostropheExtraSlotsPlugin/trunk/lib/form
+END
+BaseaMapSlotEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3834/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/BaseaMapSlotEditForm.class.php
+END
+BaseaInsetImageSlotForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3291/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/BaseaInsetImageSlotForm.class.php
+END
+aMapSlotEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3515/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/aMapSlotEditForm.class.php
+END
+aInsetImageSlotForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3291/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/aInsetImageSlotForm.class.php
+END
+BaseaBlogSlideshowSlotEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/3515/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/BaseaBlogSlideshowSlotEditForm.class.php
+END
+BaseaInsetAreaSlotForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3460/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/BaseaInsetAreaSlotForm.class.php
+END
+aEmbedFormSlotEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/4130/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/aEmbedFormSlotEditForm.class.php
+END
+aPaypalButtonSlotEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/4258/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/aPaypalButtonSlotEditForm.class.php
+END
+aWufooFormSlotEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/4261/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/aWufooFormSlotEditForm.class.php
+END
+aBlogSlideshowSlotEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/3515/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/aBlogSlideshowSlotEditForm.class.php
+END
+aInsetAreaSlotForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3444/plugins/apostropheExtraSlotsPlugin/trunk/lib/form/aInsetAreaSlotForm.class.php
+END

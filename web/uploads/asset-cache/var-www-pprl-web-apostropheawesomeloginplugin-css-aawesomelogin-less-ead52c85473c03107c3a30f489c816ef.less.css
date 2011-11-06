@@ -1,0 +1,112 @@
+.a-awesome-login-wrapper {
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin:-130px 0 0 -230px;
+  width:440px;
+  height:250px;
+  padding:10px;
+  z-index:999;
+  background:#ffffff;
+  background:rgba(0,0,0,0.25);
+  -webkit-border-radius:12px;
+  -moz-border-radius:12px;
+  border-radius:12px;
+  -moz-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -webkit-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -opera-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -khtml-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -webkit-transition:all 1s ease;
+  -moz-transition:all 1s ease;
+  -o-transition:all 1s ease;
+  transition:all 1s ease;
+}
+.a-awesome-login-wrapper .a-awesome-login {
+  position:absolute;
+  top:10px;
+  bottom:10px;
+  right:10px;
+  left:10px;
+  padding:10px;
+  background:#ffffff;
+  -webkit-border-radius:6px;
+  -moz-border-radius:6px;
+  border-radius:6px;
+  -moz-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -webkit-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -opera-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -khtml-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  font-size:150%;
+}
+.a-awesome-login-wrapper .a-awesome-login .a-awesome-heading {
+  text-align:center;
+  padding:5px;
+}
+.a-awesome-login-wrapper .a-awesome-login .a-awesome-row {
+  clear:both;
+  padding:5px;
+}
+.a-awesome-login-wrapper .a-awesome-login .a-awesome-row label {
+  display:block;
+  clear:both;
+  line-height:1;
+  width:35%;
+  float:left;
+}
+.a-awesome-login-wrapper .a-awesome-login .a-awesome-row .a-awesome-field {
+  float:left;
+  width:65%;
+}
+.a-awesome-login-wrapper .a-awesome-login .a-awesome-row .a-awesome-field input[type="text"], .a-awesome-login-wrapper .a-awesome-login .a-awesome-row .a-awesome-field input[type="password"] {
+  display:block;
+  padding:3px 6px;
+  font-size:18px;
+  border:1px solid #dddddd;
+  -webkit-border-radius:3px;
+  -moz-border-radius:3px;
+  border-radius:3px;
+  width:95%;
+}
+.a-awesome-login-wrapper .a-awesome-login .a-awesome-row .awesome-submit {
+  display:block;
+  position:relative;
+  margin:20px 0 0;
+  padding:10px;
+  text-align:center;
+  height:24px;
+}
+.a-awesome-login-wrapper .a-awesome-login .a-awesome-row .awesome-submit a {
+  display:block;
+  position:absolute;
+  top:0;
+  right:0;
+  left:0;
+  bottom:0;
+  color:#ffffff;
+  line-height:42px;
+  font-size:24px;
+  -webkit-border-radius:3px;
+  -moz-border-radius:3px;
+  border-radius:3px;
+  -moz-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -webkit-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -opera-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -khtml-box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  box-shadow:rgba(0,0,0,0.15) 0px 0px 10px;
+  -webkit-transition:all 0.15s ease;
+  -moz-transition:all 0.15s ease;
+  -o-transition:all 0.15s ease;
+  transition:all 0.15s ease;
+  text-shadow:1px 1px 1px rgba(0,0,0,0.25);
+  background:rgba(0,0,0,0.65);
+  border-top:1px inset rgba(255,255,255,0.45);
+  border-right:1px inset rgba(0,0,0,0.25);
+  border-bottom:1px inset rgba(0,0,0,0.25);
+  border-left:1px inset rgba(255,255,255,0.45);
+}
+.a-awesome-login-wrapper .a-awesome-login .a-awesome-row .awesome-submit a:hover, .a-awesome-login-wrapper .a-awesome-login .a-awesome-row .awesome-submit a:focus {
+  text-decoration:none;
+  background:rgba(64,64,64,0.65);
+}

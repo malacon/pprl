@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/32486/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/action
+END
+BasetaggableCompleteActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/32486/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/action/BasetaggableCompleteActions.class.php
+END

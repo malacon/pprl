@@ -1,0 +1,137 @@
+.dropshadow {
+  -moz-box-shadow:0px 0px 5px rgba(0,0,0,0.5);
+  -webkit-box-shadow:0px 0px 5px rgba(0,0,0,0.5);
+  -opera-box-shadow:0px 0px 5px rgba(0,0,0,0.5);
+  -khtml-box-shadow:0px 0px 5px rgba(0,0,0,0.5);
+  box-shadow:0px 0px 5px rgba(0,0,0,0.5);
+}
+.a-overlay {
+  position:absolute;
+  top:0;
+  left:0;
+  display:none;
+  background:rgba(255,255,255,0.5);
+  height:100%;
+  width:100%;
+  z-index:999;
+  overflow:hidden;
+}
+.a-overlay.active { display:block; }
+.a-page-overlay {
+  display:none;
+  overflow:hidden;
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  height:100%;
+  width:100%;
+  background:rgba(255,255,255,0.65);
+  z-index:996;
+}
+.a-page-overlay.active { display:block; }
+.a-spinner {
+  background:url(/apostrophePlugin/images/a-icon-loader-2.gif) center center no-repeat;
+  float:left;
+  display:block;
+  height:20px;
+  width:20px;
+  border:0;
+  margin:0;
+  padding:0;
+  text-indent:-9999px;
+  overflow:hidden;
+}
+.a-hidden {
+  display:none !important;
+  margin:0 !important;
+  padding:0 !important;
+  height:0 !important;
+  width:0 !important;
+}
+.a-invisible { visibility:hidden; }
+.a-default-value { color:#888888; }
+.a-block {
+  width:100%;
+  float:left;
+  clear:both;
+  display:inline;
+  position:relative;
+}
+.a-disabled, .a-disabled * {
+  cursor:default !important;
+  opacity:0.65;
+}
+.a-ui .a-align-right, .a-ui.a-align-right, .a-align-right { float:right; }
+.a-ui .a-align-left, .a-ui.a-align-left, .a-align-left { float:left; }
+.a-super-z-index { z-index:9999; }
+.a-for-print { display:none; }
+.a-accordion .a-accordion-content { display:none; }
+.a-accordion.open .a-accordion-content { display:block; }
+.a-accordion-toggle.hover, .a-accordion-toggle:hover {
+  cursor:pointer;
+  color:#000000;
+}
+.a-fix-me {
+  color:#ffffff !important;
+  background:#ff0000 !important;
+}
+.a-ui .a-remote-data-loading {
+  background:rgba(0,0,0,0.1);
+  -moz-border-radius:2px;
+  -webkit-border-radius:2px;
+  border-radius:2px;
+  min-height:50px;
+  min-width:50px;
+  background:url(/apostrophePlugin/images/a-icon-loader-2.gif) 50% 50% no-repeat;
+  clear:both;
+}
+.a-do-not-edit {
+  background:#dd2222;
+  color:#ffffff;
+  padding:8px;
+  font-size:16px;
+  text-shadow:1px 1px 0px #000000;
+  text-align:center;
+}
+.a-do-not-edit a {
+  color:#ffffff;
+  text-decoration:underline;
+}
+.a-do-not-edit strong { font-weight:bold; }
+.a-ui .a-help, .a-help {
+  float:left;
+  clear:both;
+  font-size:11px;
+  color:#888888;
+}
+.clearfix { zoom:1; }
+.clearfix:after, .clearfix:before {
+  content:"\0020";
+  display:block;
+  height:0;
+  visibility:hidden;
+}
+.clearfix:after { clear:both; }
+.reset {
+  margin:0;
+  padding:0;
+  border:0;
+  outline:0;
+  font-weight:inherit;
+  font-style:inherit;
+  font-size:100%;
+  font-family:inherit;
+  vertical-align:baseline;
+  list-style:none;
+}
+input.a-hidden-submit {
+  position:absolute !important;
+  border:none !important;
+  width:0 !important;
+  height:0 !important;
+  line-height:0 !important;
+  padding:0 !important;
+  margin:0 !important;
+}

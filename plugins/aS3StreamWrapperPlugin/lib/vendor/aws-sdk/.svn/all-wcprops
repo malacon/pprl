@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk
+END
+config-sample.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/config-sample.inc.php
+END
+sdk.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/sdk.class.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/punkave/aS3StreamWrapper.git/!svn/ver/9/lib/vendor/aws-sdk/README.md
+END

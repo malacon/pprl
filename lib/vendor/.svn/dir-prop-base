@@ -1,0 +1,12 @@
+K 13
+svn:externals
+V 456
+# Lowercase so that the Symfony autoloader recognizes it and doesn't
+# try to load project files from it
+symfony http://svn.symfony-project.com/branches/1.4
+# By default we no longer bring this in because we use apostropheMysqlSearchPlugin
+# and SwiftMailer. If you want the Zend Lucene search, comment out search_service in
+# app.yml and uncomment this and svn up
+# Zend http://framework.zend.com/svn/framework/standard/branches/release-1.10/library/Zend
+
+END

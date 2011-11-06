@@ -1,0 +1,105 @@
+@import '../../../apostrophePlugin/web/css/a-helpers.less';
+
+.a-awesome-login-wrapper
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -130px 0 0 -230px;
+	width: 440px;
+	height: 250px;
+	padding: 10px;
+	z-index: 999;
+	@a-rgba-background(#fff; rgba(0,0,0,0.25));
+	@a-border-radius(12px);
+	@a-box-shadow();
+	@a-transition(1s);
+	.a-awesome-login
+	{
+		position: absolute;
+		top: 10px;
+		bottom: 10px;
+		right: 10px;
+		left: 10px;
+		padding: 10px;
+		background: #fff;
+		@a-border-radius(6px);
+		@a-box-shadow();
+		font-size: 150%;
+		.a-awesome-heading
+		{
+			text-align: center;
+			padding: 5px;
+		}
+		.a-awesome-row
+		{
+			clear: both;
+			padding: 5px;
+			label
+			{
+				display: block;
+				clear: both;
+				line-height: 1;
+				width: 35%;
+				float: left;
+			}
+			.a-awesome-field
+			{
+				float: left;
+				width: 65%;
+
+				input[type="text"],
+				input[type="password"],
+				{
+					display: block;
+					padding: 3px 6px;
+					font-size: 18px;
+					border: 1px solid #ddd;
+					@a-border-radius(3px);
+					width: 95%;
+				}
+			} // .a-awesome-field
+
+		.awesome-submit
+		{
+			display: block;
+			position: relative;
+			margin: 20px 0 0;
+			padding: 10px;
+			text-align: center;
+			height: 24px;
+			a
+			{
+				display: block;
+				position: absolute;
+				top: 0;
+				right: 0;
+				left: 0;
+				bottom: 0;
+				color: #fff;
+				line-height: 42px;
+				font-size: 24px;
+				@a-border-radius(3px);
+				@a-box-shadow();
+				@a-transition();
+				@color: rgba(0,0,0,0.65);
+				text-shadow: 1px 1px 1px rgba(0,0,0,0.25);
+				background: @color;
+				border-top: 1px inset rgba(255,255,255,0.45);
+				border-right: 1px inset rgba(0,0,0,0.25);				
+				border-bottom: 1px inset rgba(0,0,0,0.25);
+				border-left: 1px inset rgba(255,255,255,0.45);				
+				&:hover,
+				&:focus
+				{
+					text-decoration: none;
+					background: lighten(@color, 25%);
+				}
+			}
+		}
+
+		} // .a-awesome-row
+
+	 } // .a-awesome-login-form
+
+} // .a-awesome-login-wrapper

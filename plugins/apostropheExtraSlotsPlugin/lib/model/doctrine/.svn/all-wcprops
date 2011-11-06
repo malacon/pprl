@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/4259/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine
+END
+PluginaInsetAreaSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/3444/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaInsetAreaSlotTable.class.php
+END
+PluginaWufooFormSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/4259/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaWufooFormSlot.class.php
+END
+PluginaBlogSlideshowSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/3515/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaBlogSlideshowSlot.class.php
+END
+PluginaInsetImageSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/3474/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaInsetImageSlot.class.php
+END
+PluginaMapSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/3515/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaMapSlotTable.class.php
+END
+PluginaEmbedFormSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/4130/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaEmbedFormSlotTable.class.php
+END
+PluginaPaypalButtonSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/4258/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaPaypalButtonSlotTable.class.php
+END
+PluginaInsetAreaSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/3472/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaInsetAreaSlot.class.php
+END
+PluginaWufooFormSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/4259/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaWufooFormSlotTable.class.php
+END
+PluginaBlogSlideshowSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/3515/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaBlogSlideshowSlotTable.class.php
+END
+PluginaInsetImageSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/3291/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaInsetImageSlotTable.class.php
+END
+PluginaMapSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/3515/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaMapSlot.class.php
+END
+PluginaEmbedFormSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/4130/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaEmbedFormSlot.class.php
+END
+PluginaPaypalButtonSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/4258/plugins/apostropheExtraSlotsPlugin/trunk/lib/model/doctrine/PluginaPaypalButtonSlot.class.php
+END
