@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/plugins
 http://svn.apostrophenow.org
 
@@ -29,10 +29,10 @@ c89fab08-2f9b-42bf-8176-bd3ad6bee547
 pagebreak
 dir
 
-placeholder
+image
 dir
 
-image
+placeholder
 dir
 
 styles
@@ -41,16 +41,16 @@ dir
 listblock
 dir
 
-colordialog
-dir
-
 htmldataprocessor
 dir
 
-panel
+colordialog
 dir
 
 clipboard
+dir
+
+panel
 dir
 
 menubutton
@@ -119,10 +119,10 @@ dir
 dialog
 dir
 
-iframe
+stylescombo
 dir
 
-stylescombo
+iframe
 dir
 
 adobeair
@@ -137,16 +137,16 @@ dir
 pastetext
 dir
 
-basicstyles
-dir
-
 floatpanel
 dir
 
-domiterator
+basicstyles
 dir
 
 sourcearea
+dir
+
+domiterator
 dir
 
 panelbutton
@@ -155,10 +155,10 @@ dir
 liststyle
 dir
 
-save
+editingblock
 dir
 
-editingblock
+save
 dir
 
 keystrokes
@@ -173,10 +173,10 @@ dir
 tableresize
 dir
 
-list
+wysiwygarea
 dir
 
-wysiwygarea
+list
 dir
 
 uicolor
@@ -191,13 +191,13 @@ dir
 div
 dir
 
-maximize
+filebrowser
 dir
 
 iframedialog
 dir
 
-filebrowser
+maximize
 dir
 
 a11yhelp
@@ -206,10 +206,10 @@ dir
 selection
 dir
 
-enterkey
+forms
 dir
 
-forms
+enterkey
 dir
 
 table

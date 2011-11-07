@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlog/templates
 http://svn.apostrophenow.org
 
@@ -60,40 +60,6 @@ tboutell
 
 1326
 
-_singleColumnTemplate_slot.php
-file
-
-
-
-
-2011-11-04T13:36:20.000000Z
-77f84a3f97fd5d75e32b8a227de7222c
-2011-07-20T20:41:41.650617Z
-3990
-johnnyoffline
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1682
-
 _datePrevAndNext.php
 file
 
@@ -128,17 +94,17 @@ johnnyoffline
 
 2063
 
-_tags.php
+_singleColumnTemplate_slot.php
 file
 
 
 
 
 2011-11-04T13:36:20.000000Z
-ea4e2600829b7ffba8182246e81ee470
-2010-12-31T17:28:14.647100Z
-2970
-tboutell
+77f84a3f97fd5d75e32b8a227de7222c
+2011-07-20T20:41:41.650617Z
+3990
+johnnyoffline
 
 
 
@@ -160,7 +126,7 @@ tboutell
 
 
 
-1518
+1682
 
 _pager.php
 file
@@ -195,6 +161,40 @@ johnnyoffline
 
 
 442
+
+_tags.php
+file
+
+
+
+
+2011-11-04T13:36:20.000000Z
+ea4e2600829b7ffba8182246e81ee470
+2010-12-31T17:28:14.647100Z
+2970
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1518
 
 _settings.php
 file
@@ -298,40 +298,6 @@ tboutell
 
 970
 
-_filters.php
-file
-
-
-
-
-2011-11-04T13:36:20.000000Z
-5d8f18809391df83ace3053e25c0e87c
-2011-07-15T16:09:56.546382Z
-3961
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2969
-
 _disqus.php
 file
 
@@ -365,6 +331,40 @@ tboutell
 
 
 1591
+
+_filters.php
+file
+
+
+
+
+2011-11-04T13:36:20.000000Z
+5d8f18809391df83ace3053e25c0e87c
+2011-07-15T16:09:56.546382Z
+3961
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2969
 
 _sidebar.php
 file
@@ -400,40 +400,6 @@ tboutell
 
 8332
 
-_twoColumnTemplate_rss.php
-file
-
-
-
-
-2011-11-04T13:36:20.000000Z
-734630ba7c9494f3cc6516109edf457a
-2011-07-13T20:44:38.284934Z
-3946
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-324
-
 showSuccess.php
 file
 
@@ -467,6 +433,40 @@ tboutell
 
 
 2164
+
+_twoColumnTemplate_rss.php
+file
+
+
+
+
+2011-11-04T13:36:20.000000Z
+734630ba7c9494f3cc6516109edf457a
+2011-07-13T20:44:38.284934Z
+3946
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+324
 
 _disqus_countcode.php
 file

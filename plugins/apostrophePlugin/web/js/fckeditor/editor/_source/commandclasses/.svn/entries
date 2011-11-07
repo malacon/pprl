@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/web/js/fckeditor/editor/_source/commandclasses
 http://svn.apostrophenow.org
 
@@ -400,40 +400,6 @@ tboutell
 
 1167
 
-fckpastewordcommand.js
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-cb0d63c323032afb1395f9d7e0ac7755
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1096
-
 fckblockquotecommand.js
 file
 
@@ -467,6 +433,40 @@ tboutell
 
 
 8977
+
+fckpastewordcommand.js
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+cb0d63c323032afb1395f9d7e0ac7755
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1096
 
 fckcorestylecommand.js
 file

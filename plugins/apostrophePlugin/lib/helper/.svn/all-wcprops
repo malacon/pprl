@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/!svn/ver/4218/plugins/apostrophePlugin/branches/1.5/lib/helper
+/!svn/ver/4287/plugins/apostrophePlugin/branches/1.5/lib/helper
 END
 aHelper.php
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/!svn/ver/4218/plugins/apostrophePlugin/branches/1.5/lib/helper/aHelper.php
+/!svn/ver/4287/plugins/apostrophePlugin/branches/1.5/lib/helper/aHelper.php
 END
 FeedHelper.php
 K 25

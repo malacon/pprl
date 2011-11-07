@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/template/templates
 http://svn.apostrophenow.org
 
@@ -366,17 +366,17 @@ jake
 
 1970
 
-_list.php
+_filters_field.php
 file
 
 
 
 
 2011-11-04T13:36:16.000000Z
-a33fd6868a153a95e3a1f1035ad61504
-2010-10-29T20:29:57.116089Z
-2566
-johnnyoffline
+359b26f333e4485c76dd701e7b5584dc
+2010-01-18T20:26:44.999464Z
+4
+tboutell
 
 
 
@@ -398,7 +398,7 @@ johnnyoffline
 
 
 
-3420
+1017
 
 _form_header.php
 file
@@ -434,17 +434,17 @@ tboutell
 
 0
 
-_filters_field.php
+_list.php
 file
 
 
 
 
 2011-11-04T13:36:16.000000Z
-359b26f333e4485c76dd701e7b5584dc
-2010-01-18T20:26:44.999464Z
-4
-tboutell
+a33fd6868a153a95e3a1f1035ad61504
+2010-10-29T20:29:57.116089Z
+2566
+johnnyoffline
 
 
 
@@ -466,7 +466,7 @@ tboutell
 
 
 
-1017
+3420
 
 _list_td_tabular.php
 file

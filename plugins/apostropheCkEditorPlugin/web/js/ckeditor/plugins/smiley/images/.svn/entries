@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/plugins/smiley/images
 http://svn.apostrophenow.org
 
@@ -230,40 +230,6 @@ has-props
 
 408
 
-regular_smile.gif
-file
-
-
-
-
-2011-11-04T13:36:54.000000Z
-895f2ccbf133f411752cc847ff99a068
-2011-04-30T17:14:08.107513Z
-3603
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-450
-
 tounge_smile.gif
 file
 
@@ -297,6 +263,40 @@ has-props
 
 
 446
+
+regular_smile.gif
+file
+
+
+
+
+2011-11-04T13:36:54.000000Z
+895f2ccbf133f411752cc847ff99a068
+2011-04-30T17:14:08.107513Z
+3603
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+450
 
 devil_smile.gif
 file
@@ -366,40 +366,6 @@ has-props
 
 464
 
-shades_smile.gif
-file
-
-
-
-
-2011-11-04T13:36:54.000000Z
-0bb3a9a705f75a534f711ad6d5d9df2b
-2011-04-30T17:14:08.107513Z
-3603
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-449
-
 sad_smile.gif
 file
 
@@ -434,14 +400,14 @@ has-props
 
 460
 
-whatchutalkingabout_smile.gif
+shades_smile.gif
 file
 
 
 
 
 2011-11-04T13:36:54.000000Z
-bed5fcb3b6414dd80cc065f1775b316c
+0bb3a9a705f75a534f711ad6d5d9df2b
 2011-04-30T17:14:08.107513Z
 3603
 tboutell
@@ -466,7 +432,7 @@ has-props
 
 
 
-452
+449
 
 wink_smile.gif
 file
@@ -501,6 +467,40 @@ has-props
 
 
 458
+
+whatchutalkingabout_smile.gif
+file
+
+
+
+
+2011-11-04T13:36:54.000000Z
+bed5fcb3b6414dd80cc065f1775b316c
+2011-04-30T17:14:08.107513Z
+3603
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+452
 
 teeth_smile.gif
 file

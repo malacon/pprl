@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/web/css/ui-lightness/images
 http://svn.apostrophenow.org
 
@@ -60,40 +60,6 @@ has-props
 
 260
 
-ui-icons_ffffff_256x240.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-2cc87801d9d43b350adaa1ec2da8ff45
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4369
-
 ui-bg_highlight-soft_75_ffe45c_1x100.png
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 129
+
+ui-icons_ffffff_256x240.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+2cc87801d9d43b350adaa1ec2da8ff45
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4369
 
 ui-bg_glass_65_ffffff_1x400.png
 file
@@ -298,40 +298,6 @@ has-props
 
 4369
 
-ui-bg_glass_100_fdf5ce_1x400.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-d26e8f463195a7b86f86b7d550cfc114
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-125
-
 ui-bg_flat_10_000000_40x100.png
 file
 
@@ -365,6 +331,40 @@ has-props
 
 
 178
+
+ui-bg_glass_100_fdf5ce_1x400.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+d26e8f463195a7b86f86b7d550cfc114
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+125
 
 ui-anim_basic_16x16.gif
 file
@@ -400,40 +400,6 @@ has-props
 
 1553
 
-ui-icons_228ef1_256x240.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-8d4d1918c4fea42e2074744d6f87e39b
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4369
-
 ui-bg_diagonals-thick_20_666666_40x40.png
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 251
+
+ui-icons_228ef1_256x240.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+8d4d1918c4fea42e2074744d6f87e39b
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4369
 
 ui-icons_ffd27a_256x240.png
 file

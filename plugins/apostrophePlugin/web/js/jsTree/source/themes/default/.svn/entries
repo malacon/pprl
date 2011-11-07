@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/web/js/jsTree/source/themes/default
 http://svn.apostrophenow.org
 
@@ -60,40 +60,6 @@ has-props
 
 720
 
-fminus_rtl.gif
-file
-
-
-
-
-2011-11-04T13:36:18.000000Z
-214bd427db10adb7ddc2269286e975fc
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-59
-
 create.png
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 3329
+
+fminus_rtl.gif
+file
+
+
+
+
+2011-11-04T13:36:18.000000Z
+214bd427db10adb7ddc2269286e975fc
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59
 
 style.css
 file
@@ -196,40 +196,6 @@ has-props
 
 35
 
-rename.png
-file
-
-
-
-
-2011-11-04T13:36:18.000000Z
-7454ff4b6737ae2ff18f27d53cab97eb
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3867
-
 dot.gif
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 43
+
+rename.png
+file
+
+
+
+
+2011-11-04T13:36:18.000000Z
+7454ff4b6737ae2ff18f27d53cab97eb
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3867
 
 lastli.gif
 file
@@ -366,40 +366,6 @@ has-props
 
 60
 
-li.gif
-file
-
-
-
-
-2011-11-04T13:36:18.000000Z
-b28e1d06be76acf7ecf8233a3a4a5f4c
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-47
-
 f.png
 file
 
@@ -433,6 +399,40 @@ has-props
 
 
 3237
+
+li.gif
+file
+
+
+
+
+2011-11-04T13:36:18.000000Z
+b28e1d06be76acf7ecf8233a3a4a5f4c
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47
 
 throbber.gif
 file

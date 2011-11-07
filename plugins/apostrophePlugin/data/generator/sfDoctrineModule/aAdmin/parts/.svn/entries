@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts
 http://svn.apostrophenow.org
 
@@ -60,16 +60,16 @@ tboutell
 
 3278
 
-processFormAction.php
+deleteAction.php
 file
 
 
 
 
 2011-11-04T13:36:16.000000Z
-33f012cd4427d3c6d9eb22f8b2467caa
-2010-12-17T18:45:55.851941Z
-2883
+71592cb8c346fcb39dda67f256607d7e
+2010-01-18T20:26:44.999464Z
+4
 tboutell
 
 
@@ -92,7 +92,7 @@ tboutell
 
 
 
-1714
+425
 
 filtersConfiguration.php
 file
@@ -128,16 +128,16 @@ tboutell
 
 294
 
-deleteAction.php
+processFormAction.php
 file
 
 
 
 
 2011-11-04T13:36:16.000000Z
-71592cb8c346fcb39dda67f256607d7e
-2010-01-18T20:26:44.999464Z
-4
+33f012cd4427d3c6d9eb22f8b2467caa
+2010-12-17T18:45:55.851941Z
+2883
 tboutell
 
 
@@ -160,7 +160,7 @@ tboutell
 
 
 
-425
+1714
 
 createAction.php
 file
@@ -332,40 +332,6 @@ tboutell
 
 408
 
-exportAction.php
-file
-
-
-
-
-2011-11-04T13:36:16.000000Z
-86b5d2a5da7cd8a305458738d9b552d5
-2011-07-15T19:35:31.814350Z
-3970
-dordille
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-340
-
 batchAction.php
 file
 
@@ -399,6 +365,40 @@ dordille
 
 
 2446
+
+exportAction.php
+file
+
+
+
+
+2011-11-04T13:36:16.000000Z
+86b5d2a5da7cd8a305458738d9b552d5
+2011-07-15T19:35:31.814350Z
+3970
+dordille
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+340
 
 updateAction.php
 file
@@ -468,40 +468,6 @@ tboutell
 
 596
 
-editAction.php
-file
-
-
-
-
-2011-11-04T13:36:16.000000Z
-a4fab933268d1601bfff828871f054e9
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-241
-
 sortingAction.php
 file
 
@@ -535,6 +501,40 @@ dordille
 
 
 899
+
+editAction.php
+file
+
+
+
+
+2011-11-04T13:36:16.000000Z
+a4fab933268d1601bfff828871f054e9
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+241
 
 filterAction.php
 file

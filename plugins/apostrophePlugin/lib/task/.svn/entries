@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/lib/task
 http://svn.apostrophenow.org
 
@@ -25,40 +25,6 @@ tboutell
 
 
 c89fab08-2f9b-42bf-8176-bd3ad6bee547
-
-apostropheImportFilesTask.class.php
-file
-
-
-
-
-2011-11-04T13:36:14.000000Z
-3ba35406162e58e47abe811f384a0a70
-2011-03-30T18:16:57.692606Z
-3508
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3819
 
 repairtreeTask.class.php
 file
@@ -94,16 +60,16 @@ tboutell
 
 10263
 
-aToolkitDeployTask.class.php
+apostropheImportFilesTask.class.php
 file
 
 
 
 
 2011-11-04T13:36:14.000000Z
-4d960f953bf8e14c5b6f07f4cc52bf22
-2011-04-25T18:58:38.644148Z
-3579
+3ba35406162e58e47abe811f384a0a70
+2011-03-30T18:16:57.692606Z
+3508
 tboutell
 
 
@@ -126,7 +92,7 @@ tboutell
 
 
 
-6010
+3819
 
 toolkitSshTask.class.php
 file
@@ -161,6 +127,40 @@ tboutell
 
 
 2585
+
+aToolkitDeployTask.class.php
+file
+
+
+
+
+2011-11-04T13:36:14.000000Z
+4d960f953bf8e14c5b6f07f4cc52bf22
+2011-04-25T18:58:38.644148Z
+3579
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6010
 
 csscolorsreportTask.class.php
 file
@@ -264,40 +264,6 @@ tboutell
 
 5701
 
-apostropheMigratedatafrompkcontextcmsTask.class.php
-file
-
-
-
-
-2011-11-04T13:36:14.000000Z
-c86dfdd5f949f3943e78fdcc077352aa
-2011-04-05T19:32:02.045941Z
-3521
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14934
-
 updateluceneTask.class.php
 file
 
@@ -331,6 +297,40 @@ tboutell
 
 
 3546
+
+apostropheMigratedatafrompkcontextcmsTask.class.php
+file
+
+
+
+
+2011-11-04T13:36:14.000000Z
+c86dfdd5f949f3943e78fdcc077352aa
+2011-04-05T19:32:02.045941Z
+3521
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14934
 
 aDemoFixturesTask.class.php
 file
@@ -400,16 +400,16 @@ tboutell
 
 2679
 
-apostrophePublishAllPagesTask.class.php
+toolkitRebuildIndexTask.class.php
 file
 
 
 
 
 2011-11-04T13:36:15.000000Z
-8e1a6d93e8b28c419b5c2dcb73a4a89c
-2011-03-30T18:16:57.692606Z
-3508
+50e0ca5daa9ca586c79475e0d965d59a
+2011-08-30T19:55:38.142560Z
+4100
 tboutell
 
 
@@ -432,7 +432,7 @@ tboutell
 
 
 
-2351
+7971
 
 apostropheMigratefrompkcontextcmsTask.class.php
 file
@@ -468,16 +468,16 @@ tboutell
 
 13917
 
-toolkitRebuildIndexTask.class.php
+apostrophePublishAllPagesTask.class.php
 file
 
 
 
 
 2011-11-04T13:36:15.000000Z
-50e0ca5daa9ca586c79475e0d965d59a
-2011-08-30T19:55:38.142560Z
-4100
+8e1a6d93e8b28c419b5c2dcb73a4a89c
+2011-03-30T18:16:57.692606Z
+3508
 tboutell
 
 
@@ -500,7 +500,7 @@ tboutell
 
 
 
-7971
+2351
 
 aToolkitAfterdeployTask.class.php
 file

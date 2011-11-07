@@ -1,7 +1,7 @@
 10
 
 dir
-33185
+33192
 http://svn.symfony-project.com/plugins/sfDoctrineGuardPlugin/trunk/lib/model/doctrine
 http://svn.symfony-project.com
 
@@ -25,40 +25,6 @@ gimler
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-PluginsfGuardUserGroup.class.php
-file
-
-
-
-
-2011-11-04T13:36:26.000000Z
-71dbe1f14f292c65c6be55909a275821
-2009-12-17T23:27:55.935492Z
-25546
-Jonathan.Wage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-475
 
 PluginsfGuardForgotPasswordTable.class.php
 file
@@ -93,6 +59,40 @@ gimler
 
 
 349
+
+PluginsfGuardUserGroup.class.php
+file
+
+
+
+
+2011-11-04T13:36:26.000000Z
+71dbe1f14f292c65c6be55909a275821
+2009-12-17T23:27:55.935492Z
+25546
+Jonathan.Wage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+475
 
 PluginsfGuardGroup.class.php
 file

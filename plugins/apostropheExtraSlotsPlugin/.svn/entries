@@ -1,14 +1,14 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostropheExtraSlotsPlugin/trunk
 http://svn.apostrophenow.org
 
 
 
-2011-10-26T13:14:05.405950Z
-4261
+2011-11-04T18:19:29.497941Z
+4284
 tboutell
 
 
@@ -34,40 +34,6 @@ dir
 
 modules
 dir
-
-svn-commit.tmp
-file
-
-
-
-
-2011-11-04T13:36:21.000000Z
-3064a3028e786bed286ea5c5526d1a3c
-2011-01-27T22:36:33.760004Z
-3291
-johnnyoffline
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-155
 
 web
 dir

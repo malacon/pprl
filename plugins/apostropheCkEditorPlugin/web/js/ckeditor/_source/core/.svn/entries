@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/core
 http://svn.apostrophenow.org
 
@@ -25,6 +25,9 @@ tboutell
 
 
 c89fab08-2f9b-42bf-8176-bd3ad6bee547
+
+dom
+dir
 
 ckeditor.js
 file
@@ -60,8 +63,39 @@ tboutell
 
 3716
 
-dom
-dir
+ckeditor_basic.js
+file
+
+
+
+
+2011-11-04T13:36:55.000000Z
+adcc7acc7464fd259bc929fc8bbb985b
+2011-04-30T17:14:08.107513Z
+3603
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7605
 
 config.js
 file
@@ -97,39 +131,8 @@ tboutell
 
 13122
 
-ckeditor_basic.js
-file
-
-
-
-
-2011-11-04T13:36:55.000000Z
-adcc7acc7464fd259bc929fc8bbb985b
-2011-04-30T17:14:08.107513Z
-3603
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7605
+htmlparser
+dir
 
 loader.js
 file
@@ -164,9 +167,6 @@ tboutell
 
 
 8455
-
-htmlparser
-dir
 
 plugindefinition.js
 file

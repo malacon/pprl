@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostropheBlogPlugin/branches/1.5/lib/model/doctrine
 http://svn.apostrophenow.org
 
@@ -162,40 +162,6 @@ dordille
 
 366
 
-PluginaEventSingleSlot.class.php
-file
-
-
-
-
-2011-11-04T13:36:19.000000Z
-bb0ba53741c2192fba3bf104288be0bf
-2010-04-06T15:53:14.194446Z
-857
-dordille
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-352
-
 PluginaBlogSlot.class.php
 file
 
@@ -229,6 +195,40 @@ dordille
 
 
 363
+
+PluginaEventSingleSlot.class.php
+file
+
+
+
+
+2011-11-04T13:36:19.000000Z
+bb0ba53741c2192fba3bf104288be0bf
+2010-04-06T15:53:14.194446Z
+857
+dordille
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+352
 
 PluginaBlogSingleSlot.class.php
 file
@@ -264,40 +264,6 @@ dordille
 
 381
 
-PluginaBlogPost.class.php
-file
-
-
-
-
-2011-11-04T13:36:19.000000Z
-2d928e6a7d29c6b0c91df5e82804c3bb
-2010-08-10T14:49:51.904203Z
-1932
-dordille
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-790
-
 PluginaEventTable.class.php
 file
 
@@ -331,6 +297,40 @@ tboutell
 
 
 2083
+
+PluginaBlogPost.class.php
+file
+
+
+
+
+2011-11-04T13:36:19.000000Z
+2d928e6a7d29c6b0c91df5e82804c3bb
+2010-08-10T14:49:51.904203Z
+1932
+dordille
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+790
 
 PluginaBlogEditor.class.php
 file
@@ -400,40 +400,6 @@ dordille
 
 384
 
-PluginaEventSingleSlotTable.class.php
-file
-
-
-
-
-2011-11-04T13:36:19.000000Z
-99c5e77f46c5b2ed7b0d0816ff81c4fa
-2010-04-06T18:03:19.515246Z
-861
-dordille
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-441
-
 PluginaBlogSlotTable.class.php
 file
 
@@ -467,6 +433,40 @@ dordille
 
 
 380
+
+PluginaEventSingleSlotTable.class.php
+file
+
+
+
+
+2011-11-04T13:36:19.000000Z
+99c5e77f46c5b2ed7b0d0816ff81c4fa
+2010-04-06T18:03:19.515246Z
+861
+dordille
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+441
 
 PluginaBlogSingleSlotTable.class.php
 file

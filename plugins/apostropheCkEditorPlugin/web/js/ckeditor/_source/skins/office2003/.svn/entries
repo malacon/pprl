@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/skins/office2003
 http://svn.apostrophenow.org
 
@@ -25,40 +25,6 @@ tboutell
 
 
 c89fab08-2f9b-42bf-8176-bd3ad6bee547
-
-skin.js
-file
-
-
-
-
-2011-11-04T13:36:55.000000Z
-c5978acd3950a87f94aff2796e2a38a3
-2011-04-30T17:14:08.107513Z
-3603
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1856
 
 icons_rtl.png
 file
@@ -93,6 +59,40 @@ has-props
 
 
 5600
+
+skin.js
+file
+
+
+
+
+2011-11-04T13:36:55.000000Z
+c5978acd3950a87f94aff2796e2a38a3
+2011-04-30T17:14:08.107513Z
+3603
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1856
 
 elementspath.css
 file
@@ -162,40 +162,6 @@ tboutell
 
 1997
 
-panel.css
-file
-
-
-
-
-2011-11-04T13:36:55.000000Z
-b50f5a8c6c51b79ea8f12c5502ca6073
-2011-04-30T17:14:08.107513Z
-3603
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3739
-
 dialog.css
 file
 
@@ -229,6 +195,40 @@ tboutell
 
 
 18565
+
+panel.css
+file
+
+
+
+
+2011-11-04T13:36:55.000000Z
+b50f5a8c6c51b79ea8f12c5502ca6073
+2011-04-30T17:14:08.107513Z
+3603
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3739
 
 toolbar.css
 file
@@ -403,40 +403,6 @@ tboutell
 images
 dir
 
-reset.css
-file
-
-
-
-
-2011-11-04T13:36:55.000000Z
-46576ca21828e850c456095e6cc9ae90
-2011-04-30T17:14:08.107513Z
-3603
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1798
-
 mainui.css
 file
 
@@ -470,6 +436,40 @@ tboutell
 
 
 3191
+
+reset.css
+file
+
+
+
+
+2011-11-04T13:36:55.000000Z
+46576ca21828e850c456095e6cc9ae90
+2011-04-30T17:14:08.107513Z
+3603
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1798
 
 presets.css
 file

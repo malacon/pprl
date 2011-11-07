@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/plugins
 http://svn.apostrophenow.org
 
@@ -65,13 +65,13 @@ dir
 div
 dir
 
+ajax
+dir
+
 iframedialog
 dir
 
 scayt
-dir
-
-ajax
 dir
 
 a11yhelp
@@ -83,16 +83,16 @@ dir
 table
 dir
 
-wsc
-dir
-
 pastefromword
 dir
 
-flash
+wsc
 dir
 
 link
+dir
+
+flash
 dir
 
 templates

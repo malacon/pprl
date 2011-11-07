@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/web/js/fckeditor/editor/filemanager/browser/default/images/icons/32
 http://svn.apostrophenow.org
 
@@ -25,40 +25,6 @@ tboutell
 
 
 c89fab08-2f9b-42bf-8176-bd3ad6bee547
-
-dll.gif
-file
-
-
-
-
-2011-11-04T13:36:18.000000Z
-f0e74b60a4bd86a7e3c72703ae35bdbd
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-258
 
 default.icon.gif
 file
@@ -93,6 +59,40 @@ has-props
 
 
 177
+
+dll.gif
+file
+
+
+
+
+2011-11-04T13:36:18.000000Z
+f0e74b60a4bd86a7e3c72703ae35bdbd
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+258
 
 js.gif
 file
@@ -196,40 +196,6 @@ has-props
 
 709
 
-avi.gif
-file
-
-
-
-
-2011-11-04T13:36:18.000000Z
-d2f15a52c9b7cde60094357aee158f9a
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-454
-
 txt.gif
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 213
+
+avi.gif
+file
+
+
+
+
+2011-11-04T13:36:18.000000Z
+d2f15a52c9b7cde60094357aee158f9a
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+454
 
 jpg.gif
 file

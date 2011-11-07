@@ -1,14 +1,14 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine
 http://svn.apostrophenow.org
 
 
 
-2011-10-07T00:22:03.050722Z
-4215
+2011-11-04T18:20:07.222679Z
+4285
 tboutell
 
 
@@ -128,14 +128,14 @@ tboutell
 
 247
 
-PluginaCategory.class.php
+PluginaFeedSlotTable.class.php
 file
 
 
 
 
 2011-11-04T13:36:14.000000Z
-c7e6d41e4c8b66b2fc7818b2835927e5
+6a935a36c24d0cedf8f42e7df6a14478
 2011-03-30T18:16:57.692606Z
 3508
 tboutell
@@ -160,7 +160,7 @@ tboutell
 
 
 
-325
+177
 
 PluginaButtonSlot.class.php
 file
@@ -196,14 +196,14 @@ tboutell
 
 403
 
-PluginaFeedSlotTable.class.php
+PluginaCategory.class.php
 file
 
 
 
 
 2011-11-04T13:36:14.000000Z
-6a935a36c24d0cedf8f42e7df6a14478
+c7e6d41e4c8b66b2fc7818b2835927e5
 2011-03-30T18:16:57.692606Z
 3508
 tboutell
@@ -228,7 +228,7 @@ tboutell
 
 
 
-177
+325
 
 PluginaVideoSlotTable.class.php
 file
@@ -264,40 +264,6 @@ tboutell
 
 246
 
-PluginaSmartSlideshowSlotTable.class.php
-file
-
-
-
-
-2011-11-04T13:36:14.000000Z
-b27a01870165e6b0d884668a2213b644
-2011-03-30T18:16:57.692606Z
-3508
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-255
-
 PluginaCacheItem.class.php
 file
 
@@ -331,6 +297,40 @@ tboutell
 
 
 334
+
+PluginaSmartSlideshowSlotTable.class.php
+file
+
+
+
+
+2011-11-04T13:36:14.000000Z
+b27a01870165e6b0d884668a2213b644
+2011-03-30T18:16:57.692606Z
+3508
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+255
 
 PluginaPDFSlotTable.class.php
 file
@@ -366,16 +366,16 @@ tboutell
 
 244
 
-PluginaPageTable.class.php
+PluginaImageSlot.class.php
 file
 
 
 
 
 2011-11-04T13:36:14.000000Z
-d378c58daf620d84cb962db9f5e41504
-2011-09-27T13:36:33.905528Z
-4173
+d90f4d0092f7cff184ff6644704a08e2
+2011-03-30T18:16:57.692606Z
+3508
 tboutell
 
 
@@ -398,7 +398,7 @@ tboutell
 
 
 
-45985
+483
 
 PluginaCategoryUserTable.class.php
 file
@@ -434,16 +434,16 @@ tboutell
 
 750
 
-PluginaImageSlot.class.php
+PluginaPageTable.class.php
 file
 
 
 
 
 2011-11-04T13:36:14.000000Z
-d90f4d0092f7cff184ff6644704a08e2
-2011-03-30T18:16:57.692606Z
-3508
+d378c58daf620d84cb962db9f5e41504
+2011-09-27T13:36:33.905528Z
+4173
 tboutell
 
 
@@ -466,41 +466,7 @@ tboutell
 
 
 
-483
-
-PluginaButtonSlotTable.class.php
-file
-
-
-
-
-2011-11-04T13:36:14.000000Z
-7eddad942eff0bf091891428c93dc898
-2011-03-30T18:16:57.692606Z
-3508
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-247
+45985
 
 PluginaCategoryTable.class.php
 file
@@ -535,6 +501,40 @@ tboutell
 
 
 3704
+
+PluginaButtonSlotTable.class.php
+file
+
+
+
+
+2011-11-04T13:36:14.000000Z
+7eddad942eff0bf091891428c93dc898
+2011-03-30T18:16:57.692606Z
+3508
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+247
 
 PluginaTextSlot.class.php
 file
@@ -1046,40 +1046,6 @@ tboutell
 
 760
 
-PluginaAreaVersionSlotTable.class.php
-file
-
-
-
-
-2011-11-04T13:36:14.000000Z
-afac4aa3f934d4c5377068828ff03c78
-2011-03-30T18:16:57.692606Z
-3508
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-256
-
 PluginaRawHTMLSlotTable.class.php
 file
 
@@ -1114,14 +1080,14 @@ tboutell
 
 248
 
-PluginaCategoryGroup.class.php
+PluginaAreaVersionSlotTable.class.php
 file
 
 
 
 
 2011-11-04T13:36:14.000000Z
-8b35477aa0a0e270f5dd8944e7c707b9
+afac4aa3f934d4c5377068828ff03c78
 2011-03-30T18:16:57.692606Z
 3508
 tboutell
@@ -1146,7 +1112,7 @@ tboutell
 
 
 
-341
+256
 
 PluginaCacheItemTable.class.php
 file
@@ -1181,6 +1147,40 @@ tboutell
 
 
 388
+
+PluginaCategoryGroup.class.php
+file
+
+
+
+
+2011-11-04T13:36:14.000000Z
+8b35477aa0a0e270f5dd8944e7c707b9
+2011-03-30T18:16:57.692606Z
+3508
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+341
 
 PluginaTextSlotTable.class.php
 file
@@ -1386,40 +1386,6 @@ tboutell
 
 260
 
-PluginaRawHTMLSlot.class.php
-file
-
-
-
-
-2011-11-04T13:36:14.000000Z
-7bde1be47d6f9dffc2ec321fd5af1de1
-2011-03-30T18:16:57.692606Z
-3508
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1447
-
 PluginaAreaVersionSlot.class.php
 file
 
@@ -1454,14 +1420,14 @@ tboutell
 
 266
 
-PluginaAreaVersionTable.class.php
+PluginaRawHTMLSlot.class.php
 file
 
 
 
 
 2011-11-04T13:36:14.000000Z
-adf1324b76e829ddbada56a032baaf05
+7bde1be47d6f9dffc2ec321fd5af1de1
 2011-03-30T18:16:57.692606Z
 3508
 tboutell
@@ -1486,7 +1452,7 @@ tboutell
 
 
 
-252
+1447
 
 PluginaGroupAccessTable.class.php
 file
@@ -1521,6 +1487,40 @@ tboutell
 
 
 494
+
+PluginaAreaVersionTable.class.php
+file
+
+
+
+
+2011-11-04T13:36:14.000000Z
+adf1324b76e829ddbada56a032baaf05
+2011-03-30T18:16:57.692606Z
+3508
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+252
 
 PluginaSlotMediaItem.class.php
 file
@@ -1624,40 +1624,6 @@ tboutell
 
 756
 
-PluginaSlideshowSlot.class.php
-file
-
-
-
-
-2011-11-04T13:36:14.000000Z
-5b42e498590e89ea4e730a3a5fbd0ee1
-2011-03-30T18:16:57.692606Z
-3508
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1210
-
 PluginaAudioSlot.class.php
 file
 
@@ -1691,6 +1657,40 @@ tboutell
 
 
 329
+
+PluginaSlideshowSlot.class.php
+file
+
+
+
+
+2011-11-04T13:36:14.000000Z
+5b42e498590e89ea4e730a3a5fbd0ee1
+2011-03-30T18:16:57.692606Z
+3508
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1210
 
 PluginaRichTextSlotTable.class.php
 file
@@ -1862,40 +1862,6 @@ tboutell
 
 833
 
-PluginaSlot.class.php
-file
-
-
-
-
-2011-11-04T13:36:14.000000Z
-0879147a01c45d092acc6db78bd4e659
-2011-09-05T15:29:04.252432Z
-4110
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7669
-
 PluginaFileSlot.class.php
 file
 
@@ -1929,6 +1895,40 @@ tboutell
 
 
 326
+
+PluginaSlot.class.php
+file
+
+
+
+
+2011-11-07T17:13:58.000000Z
+8d7cab48a67d38d4f6137ce9fcc669c9
+2011-11-04T18:20:07.222679Z
+4285
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7815
 
 PluginaMediaPageCategoryTable.class.php
 file
@@ -2032,40 +2032,6 @@ tboutell
 
 500
 
-PluginaSlotTable.class.php
-file
-
-
-
-
-2011-11-04T13:36:14.000000Z
-6de3e33464bc6d76ff09aa22fdffc5d4
-2011-03-30T18:16:57.692606Z
-3508
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-245
-
 PluginaFileSlotTable.class.php
 file
 
@@ -2100,14 +2066,14 @@ tboutell
 
 478
 
-PluginaRichTextSlot.class.php
+PluginaSlotTable.class.php
 file
 
 
 
 
 2011-11-04T13:36:14.000000Z
-fd37da7710ab25591ac37558248f65f6
+6de3e33464bc6d76ff09aa22fdffc5d4
 2011-03-30T18:16:57.692606Z
 3508
 tboutell
@@ -2132,7 +2098,7 @@ tboutell
 
 
 
-1489
+245
 
 PluginaImageSlotTable.class.php
 file
@@ -2167,6 +2133,40 @@ tboutell
 
 
 246
+
+PluginaRichTextSlot.class.php
+file
+
+
+
+
+2011-11-04T13:36:14.000000Z
+fd37da7710ab25591ac37558248f65f6
+2011-03-30T18:16:57.692606Z
+3508
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1489
 
 PluginaMediaBrowserSlotTable.class.php
 file

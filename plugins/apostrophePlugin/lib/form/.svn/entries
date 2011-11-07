@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/lib/form
 http://svn.apostrophenow.org
 
@@ -573,40 +573,6 @@ tboutell
 
 223
 
-aMediaEditForm.class.php
-file
-
-
-
-
-2011-11-04T13:36:15.000000Z
-4545f5057068ffe4894081d2cfed3c85
-2011-03-30T18:16:57.692606Z
-3508
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-264
-
 BaseaRichTextForm.class.php
 file
 
@@ -641,14 +607,14 @@ tboutell
 
 2046
 
-aFormSignin.class.php
+aMediaEditForm.class.php
 file
 
 
 
 
 2011-11-04T13:36:15.000000Z
-84a08b550b2d30c025d5d09ac7c465f7
+4545f5057068ffe4894081d2cfed3c85
 2011-03-30T18:16:57.692606Z
 3508
 tboutell
@@ -673,7 +639,7 @@ tboutell
 
 
 
-580
+264
 
 aMediaUploadImageForm.class.php
 file
@@ -708,6 +674,40 @@ tboutell
 
 
 285
+
+aFormSignin.class.php
+file
+
+
+
+
+2011-11-04T13:36:15.000000Z
+84a08b550b2d30c025d5d09ac7c465f7
+2011-03-30T18:16:57.692606Z
+3508
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+580
 
 BaseaPageSettingsForm.class.php
 file
@@ -947,40 +947,6 @@ tboutell
 
 457
 
-BaseaMediaVideoForm.class.php
-file
-
-
-
-
-2011-11-04T13:36:15.000000Z
-b4e0b0deea03a4c113db4cad7cc155f5
-2011-07-13T17:31:49.632109Z
-3938
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8733
-
 aMediaEditMultipleForm.class.php
 file
 
@@ -1014,6 +980,40 @@ tboutell
 
 
 288
+
+BaseaMediaVideoForm.class.php
+file
+
+
+
+
+2011-11-04T13:36:15.000000Z
+b4e0b0deea03a4c113db4cad7cc155f5
+2011-07-13T17:31:49.632109Z
+3938
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8733
 
 aFeedForm.class.php
 file

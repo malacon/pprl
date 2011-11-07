@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/web/js/fckeditor/editor/lang
 http://svn.apostrophenow.org
 
@@ -468,6 +468,74 @@ tboutell
 
 20830
 
+en-uk.js
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+bc0b95f09f2f9390aebfadb6f9acc6d3
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17990
+
+zh-cn.js
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+a9e60a3e16ca6519eff85354eb69369c
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17648
+
 uk.js
 file
 
@@ -535,74 +603,6 @@ tboutell
 
 
 19331
-
-zh-cn.js
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-a9e60a3e16ca6519eff85354eb69369c
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17648
-
-en-uk.js
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-bc0b95f09f2f9390aebfadb6f9acc6d3
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17990
 
 ro.js
 file
@@ -672,40 +672,6 @@ tboutell
 
 19793
 
-af.js
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-d6fdae6874066be2b12a29e7ca658c29
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18799
-
 ru.js
 file
 
@@ -739,6 +705,40 @@ tboutell
 
 
 25771
+
+af.js
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+d6fdae6874066be2b12a29e7ca658c29
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18799
 
 fr-ca.js
 file
@@ -774,40 +774,6 @@ tboutell
 
 19669
 
-bn.js
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-c6d8f2be6357e6944537e17a7af6c0c8
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-28089
-
 nb.js
 file
 
@@ -841,6 +807,40 @@ tboutell
 
 
 18208
+
+bn.js
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+c6d8f2be6357e6944537e17a7af6c0c8
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28089
 
 el.js
 file
@@ -876,14 +876,14 @@ tboutell
 
 25850
 
-gl.js
+en.js
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-5d4f44ee7b5ea567f00e35e861129404
+464b0b8c746310c0b9cc56ca243b1aac
 2010-01-18T20:26:44.999464Z
 4
 tboutell
@@ -908,7 +908,7 @@ tboutell
 
 
 
-19839
+17915
 
 ar.js
 file
@@ -944,14 +944,14 @@ tboutell
 
 22602
 
-en.js
+gl.js
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-464b0b8c746310c0b9cc56ca243b1aac
+5d4f44ee7b5ea567f00e35e861129404
 2010-01-18T20:26:44.999464Z
 4
 tboutell
@@ -976,7 +976,7 @@ tboutell
 
 
 
-17915
+19839
 
 _translationstatus.txt
 file

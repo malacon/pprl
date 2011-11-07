@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostropheCkEditorPlugin/trunk/web/js/ckeditor/_source/lang
 http://svn.apostrophenow.org
 
@@ -570,14 +570,14 @@ tboutell
 
 25029
 
-ms.js
+zh-cn.js
 file
 
 
 
 
 2011-11-04T13:36:54.000000Z
-b1967bf932779d2e1a917ae7811d6f20
+5377a3a30349680aae24c7e2a46f9300
 2011-04-30T17:14:08.107513Z
 3603
 tboutell
@@ -602,7 +602,7 @@ tboutell
 
 
 
-23927
+20353
 
 uk.js
 file
@@ -638,14 +638,14 @@ tboutell
 
 30395
 
-zh-cn.js
+ms.js
 file
 
 
 
 
 2011-11-04T13:36:54.000000Z
-5377a3a30349680aae24c7e2a46f9300
+b1967bf932779d2e1a917ae7811d6f20
 2011-04-30T17:14:08.107513Z
 3603
 tboutell
@@ -670,7 +670,7 @@ tboutell
 
 
 
-20353
+23927
 
 ro.js
 file
@@ -740,40 +740,6 @@ tboutell
 
 22965
 
-af.js
-file
-
-
-
-
-2011-11-04T13:36:54.000000Z
-90164acc64908083f52393638ad57e2d
-2011-04-30T17:14:08.107513Z
-3603
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-20842
-
 ru.js
 file
 
@@ -808,14 +774,14 @@ tboutell
 
 29165
 
-fr-ca.js
+af.js
 file
 
 
 
 
 2011-11-04T13:36:54.000000Z
-a4d40369961da938a218ebb7a9d38c19
+90164acc64908083f52393638ad57e2d
 2011-04-30T17:14:08.107513Z
 3603
 tboutell
@@ -840,7 +806,7 @@ tboutell
 
 
 
-24444
+20842
 
 en-gb.js
 file
@@ -876,14 +842,14 @@ tboutell
 
 20621
 
-bn.js
+fr-ca.js
 file
 
 
 
 
 2011-11-04T13:36:54.000000Z
-e09e182dca7535ee4522fb2cda0ddfb9
+a4d40369961da938a218ebb7a9d38c19
 2011-04-30T17:14:08.107513Z
 3603
 tboutell
@@ -908,7 +874,7 @@ tboutell
 
 
 
-29675
+24444
 
 nb.js
 file
@@ -944,6 +910,40 @@ tboutell
 
 21090
 
+bn.js
+file
+
+
+
+
+2011-11-04T13:36:54.000000Z
+e09e182dca7535ee4522fb2cda0ddfb9
+2011-04-30T17:14:08.107513Z
+3603
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29675
+
 el.js
 file
 
@@ -978,14 +978,14 @@ tboutell
 
 28434
 
-gl.js
+ar.js
 file
 
 
 
 
 2011-11-04T13:36:54.000000Z
-a17789434300d67ca05f1d1130036710
+efe956985677ec8c56416a08701b205b
 2011-04-30T17:14:08.107513Z
 3603
 tboutell
@@ -1010,7 +1010,7 @@ tboutell
 
 
 
-24347
+26074
 
 en.js
 file
@@ -1046,14 +1046,14 @@ tboutell
 
 20620
 
-ar.js
+gl.js
 file
 
 
 
 
 2011-11-04T13:36:54.000000Z
-efe956985677ec8c56416a08701b205b
+a17789434300d67ca05f1d1130036710
 2011-04-30T17:14:08.107513Z
 3603
 tboutell
@@ -1078,7 +1078,7 @@ tboutell
 
 
 
-26074
+24347
 
 _translationstatus.txt
 file

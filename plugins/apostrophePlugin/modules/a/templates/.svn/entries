@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/modules/a/templates
 http://svn.apostrophenow.org
 
@@ -536,40 +536,6 @@ tboutell
 
 2807
 
-_language.php
-file
-
-
-
-
-2011-11-04T13:36:15.000000Z
-e362e36a74c2a677381ec8b184c52c5a
-2011-08-11T22:01:01.237612Z
-4048
-tboutell
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-622
-
 settingsRedirect.php
 file
 
@@ -604,16 +570,16 @@ johnnyoffline
 
 295
 
-addSlotSuccess.php
+_language.php
 file
 
 
 
 
 2011-11-04T13:36:15.000000Z
-5aadf490526970f944a2ab57a95cec60
-2010-11-02T19:20:23.007605Z
-2584
+e362e36a74c2a677381ec8b184c52c5a
+2011-08-11T22:01:01.237612Z
+4048
 tboutell
 
 
@@ -636,7 +602,7 @@ tboutell
 
 
 
-519
+622
 
 _googleAnalytics.php
 file
@@ -671,6 +637,40 @@ tboutell
 
 
 1105
+
+addSlotSuccess.php
+file
+
+
+
+
+2011-11-04T13:36:15.000000Z
+5aadf490526970f944a2ab57a95cec60
+2010-11-02T19:20:23.007605Z
+2584
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+519
 
 homeTemplate.php
 file
@@ -876,17 +876,17 @@ tboutell
 
 1649
 
-_subnav.php
+deleteSlotSuccess.php
 file
 
 
 
 
 2011-11-04T13:36:15.000000Z
-acd2cabbf3a907d0baca7f1d21708025
-2011-04-20T20:52:20.387492Z
-3565
-johnnyoffline
+b71d49c0542083846115932fa7a6368b
+2010-11-23T17:22:56.101572Z
+2709
+wjohnald
 
 
 
@@ -908,7 +908,7 @@ johnnyoffline
 
 
 
-391
+316
 
 _footer.php
 file
@@ -944,17 +944,17 @@ johnnyoffline
 
 837
 
-deleteSlotSuccess.php
+_subnav.php
 file
 
 
 
 
 2011-11-04T13:36:15.000000Z
-b71d49c0542083846115932fa7a6368b
-2010-11-23T17:22:56.101572Z
-2709
-wjohnald
+acd2cabbf3a907d0baca7f1d21708025
+2011-04-20T20:52:20.387492Z
+3565
+johnnyoffline
 
 
 
@@ -976,7 +976,7 @@ wjohnald
 
 
 
-316
+391
 
 reorganizeSuccess.php
 file

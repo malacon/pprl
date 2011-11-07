@@ -1,7 +1,7 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/web/images
 http://svn.apostrophenow.org
 
@@ -570,40 +570,6 @@ has-props
 
 501
 
-a-icon-desc.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-1d75bf97e74c10afc4517e5b50be1ab6
-2010-01-18T20:26:44.999464Z
-4
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3020
-
 a-icon-rawhtml.png
 file
 
@@ -637,6 +603,40 @@ has-props
 
 
 281
+
+a-icon-desc.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+1d75bf97e74c10afc4517e5b50be1ab6
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3020
 
 a-audio-volume.png
 file
@@ -774,40 +774,6 @@ has-props
 
 312
 
-a-icon-dropdown-arrow.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-2dbf821d6a0910a2c6675a2747fc8c1c
-2010-12-08T22:53:15.851255Z
-2777
-johnnyoffline
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3104
-
 a-media-service-viddler-small.png
 file
 
@@ -841,6 +807,40 @@ has-props
 
 
 2868
+
+a-icon-dropdown-arrow.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+2dbf821d6a0910a2c6675a2747fc8c1c
+2010-12-08T22:53:15.851255Z
+2777
+johnnyoffline
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3104
 
 a-icon-loader-2.gif
 file
@@ -910,40 +910,6 @@ has-props
 
 315
 
-a-icon-page-media.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-e62becf1738cc6f90070208e3189f4b9
-2010-05-24T15:42:37.415275Z
-1377
-rickybanister
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-399
-
 a-icon-error.png
 file
 
@@ -978,17 +944,17 @@ has-props
 
 228
 
-a-icon-event-black.png
+a-icon-page-media.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-17d1e183bbf6964f9425c6226dea6ba4
-2010-01-18T20:26:44.999464Z
-4
-tboutell
+e62becf1738cc6f90070208e3189f4b9
+2010-05-24T15:42:37.415275Z
+1377
+rickybanister
 has-props
 
 
@@ -1010,7 +976,41 @@ has-props
 
 
 
-248
+399
+
+a-media-play-video-four-up.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+a741741342829987759f728f00cf1c25
+2010-12-03T23:04:40.252767Z
+2768
+johnnyoffline
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+560
 
 a-icon-arrow-right-solid-alt.png
 file
@@ -1046,17 +1046,17 @@ has-props
 
 338
 
-a-media-play-video-four-up.png
+a-icon-event-black.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-a741741342829987759f728f00cf1c25
-2010-12-03T23:04:40.252767Z
-2768
-johnnyoffline
+17d1e183bbf6964f9425c6226dea6ba4
+2010-01-18T20:26:44.999464Z
+4
+tboutell
 has-props
 
 
@@ -1078,7 +1078,7 @@ has-props
 
 
 
-560
+248
 
 a-icon-timepicker.png
 file
@@ -2100,6 +2100,40 @@ has-props
 
 1400
 
+a-icon-alt-add.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+65bfd7d715593d41638d11f917764ce3
+2010-09-30T20:43:44.845331Z
+2299
+johnnyoffline
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+229
+
 a-icon-sprite.png
 file
 
@@ -2168,40 +2202,6 @@ has-props
 
 444
 
-a-icon-alt-add.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-65bfd7d715593d41638d11f917764ce3
-2010-09-30T20:43:44.845331Z
-2299
-johnnyoffline
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-229
-
 list.png
 file
 
@@ -2236,16 +2236,16 @@ has-props
 
 531
 
-a-icon-list-arrow-small.png
+date.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-2fedbaf42cb88a4724af029cd4c7ea07
-2010-01-19T15:02:56.423948Z
-11
+9999f2fd203d4967210aa51f6348a68a
+2010-01-18T20:26:44.999464Z
+4
 tboutell
 has-props
 
@@ -2268,7 +2268,7 @@ has-props
 
 
 
-2986
+775
 
 a-breadcrumb-unlock.png
 file
@@ -2304,16 +2304,16 @@ has-props
 
 440
 
-date.png
+a-icon-list-arrow-small.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-9999f2fd203d4967210aa51f6348a68a
-2010-01-18T20:26:44.999464Z
-4
+2fedbaf42cb88a4724af029cd4c7ea07
+2010-01-19T15:02:56.423948Z
+11
 tboutell
 has-props
 
@@ -2336,7 +2336,7 @@ has-props
 
 
 
-775
+2986
 
 a-icon-alt-close-simple.png
 file
@@ -2406,17 +2406,17 @@ has-props
 
 15038
 
-a-media-service-slideshare-small.png
+reset.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-fb7ed3cf6be1804612d80592841a97fd
-2011-01-17T22:09:53.424026Z
-3183
-thinkswan
+fc1ba12390db7eb5ec9ec9293c70842c
+2010-01-18T20:26:44.999464Z
+4
+tboutell
 has-props
 
 
@@ -2438,7 +2438,7 @@ has-props
 
 
 
-2431
+691
 
 a-media-service-viddler.png
 file
@@ -2474,17 +2474,17 @@ has-props
 
 8188
 
-reset.png
+a-media-service-slideshare-small.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-fc1ba12390db7eb5ec9ec9293c70842c
-2010-01-18T20:26:44.999464Z
-4
-tboutell
+fb7ed3cf6be1804612d80592841a97fd
+2011-01-17T22:09:53.424026Z
+3183
+thinkswan
 has-props
 
 
@@ -2506,41 +2506,7 @@ has-props
 
 
 
-691
-
-a-media-service-youtube.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-9c6347b10374bb8f8dcfc0ad1893b8c7
-2010-10-29T23:28:37.182765Z
-2567
-johnnyoffline
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3587
+2431
 
 filter.png
 file
@@ -2575,6 +2541,40 @@ has-props
 
 
 703
+
+a-media-service-youtube.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+9c6347b10374bb8f8dcfc0ad1893b8c7
+2010-10-29T23:28:37.182765Z
+2567
+johnnyoffline
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3587
 
 a-icon-page-small.png
 file
@@ -2644,40 +2644,6 @@ has-props
 
 900
 
-a-icon-event-sprite.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-a5b3e84d3213dfe67dac3c85ecd49022
-2010-09-30T20:43:44.845331Z
-2299
-johnnyoffline
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2481
-
 a-icon-blog-many.png
 file
 
@@ -2711,6 +2677,40 @@ has-props
 
 
 404
+
+a-icon-event-sprite.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+a5b3e84d3213dfe67dac3c85ecd49022
+2010-09-30T20:43:44.845331Z
+2299
+johnnyoffline
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2481
 
 a-media-service-youtube-small.png
 file
@@ -2746,40 +2746,6 @@ has-props
 
 1563
 
-a-icon-alt-button.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-120893a9c668e7cce91bb9d4531d4a52
-2010-09-30T20:43:44.845331Z
-2299
-johnnyoffline
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-488
-
 edit_icon.png
 file
 
@@ -2813,6 +2779,40 @@ has-props
 
 
 728
+
+a-icon-alt-button.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+120893a9c668e7cce91bb9d4531d4a52
+2010-09-30T20:43:44.845331Z
+2299
+johnnyoffline
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+488
 
 a-help-arrow.png
 file
@@ -2916,40 +2916,6 @@ has-props
 
 3077
 
-a-icon-arrow-left-alt.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-a217beb7546573d558b5162e9e0e8ee0
-2010-02-11T22:30:58.979972Z
-298
-johnnyoffline
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3826
-
 a-icon-settings.png
 file
 
@@ -2984,16 +2950,16 @@ has-props
 
 440
 
-a-icon-alt-blog.png
+a-icon-arrow-left-alt.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-1758e4c13cc3344fbb798e7fcbda2435
-2010-09-30T20:43:44.845331Z
-2299
+a217beb7546573d558b5162e9e0e8ee0
+2010-02-11T22:30:58.979972Z
+298
 johnnyoffline
 has-props
 
@@ -3016,7 +2982,7 @@ has-props
 
 
 
-275
+3826
 
 a-icon-slideshow.png
 file
@@ -3051,6 +3017,40 @@ has-props
 
 
 316
+
+a-icon-alt-blog.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+1758e4c13cc3344fbb798e7fcbda2435
+2010-09-30T20:43:44.845331Z
+2299
+johnnyoffline
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+275
 
 a-icon-alt-blog-many.png
 file
@@ -3154,40 +3154,6 @@ has-props
 
 600
 
-a-icon-pause.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-e8ba95a8ac368179c4cbaac15b235140
-2010-08-09T20:37:14.741879Z
-1925
-rickybanister
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-147
-
 a-media-play-btn.png
 file
 
@@ -3221,6 +3187,40 @@ has-props
 
 
 6660
+
+a-icon-pause.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+e8ba95a8ac368179c4cbaac15b235140
+2010-08-09T20:37:14.741879Z
+1925
+rickybanister
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+147
 
 a-icon-page-events.png
 file
@@ -3256,17 +3256,17 @@ has-props
 
 475
 
-a-icon-file.png
+a-pdf-icon-small.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-5fc43f188f022944b34870d4fee3d85f
-2010-10-11T20:26:39.672070Z
-2381
-rickybanister
+2cf555859198706890d629777ea0cd77
+2010-03-04T19:36:36.128492Z
+499
+hillerj
 has-props
 
 
@@ -3288,41 +3288,7 @@ has-props
 
 
 
-458
-
-a-icon-alt-slideshow.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-91eeae51a53749682141c799b8eb5e73
-2010-09-30T20:43:44.845331Z
-2299
-johnnyoffline
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-293
+3188
 
 a-media-icon.png
 file
@@ -3358,17 +3324,17 @@ has-props
 
 2980
 
-a-pdf-icon-small.png
+a-icon-alt-slideshow.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-2cf555859198706890d629777ea0cd77
-2010-03-04T19:36:36.128492Z
-499
-hillerj
+91eeae51a53749682141c799b8eb5e73
+2010-09-30T20:43:44.845331Z
+2299
+johnnyoffline
 has-props
 
 
@@ -3390,7 +3356,41 @@ has-props
 
 
 
-3188
+293
+
+a-icon-file.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+5fc43f188f022944b34870d4fee3d85f
+2010-10-11T20:26:39.672070Z
+2381
+rickybanister
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+458
 
 a-icon-alt-sitemap.png
 file
@@ -3528,40 +3528,6 @@ has-props
 
 308
 
-a-blog-td-bg.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-3355a5adcdd6063260ae8852de03010c
-2010-10-28T20:32:23.798721Z
-2550
-johnnyoffline
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-160
-
 a-icon-alt-page-settings.png
 file
 
@@ -3596,16 +3562,16 @@ has-props
 
 589
 
-a-icon-alt-replace.png
+a-blog-td-bg.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-1b4e4acef0a7c58978c79ad8f92b9125
-2010-09-30T20:43:44.845331Z
-2299
+3355a5adcdd6063260ae8852de03010c
+2010-10-28T20:32:23.798721Z
+2550
 johnnyoffline
 has-props
 
@@ -3628,7 +3594,7 @@ has-props
 
 
 
-607
+160
 
 a-icon-unchecked.png
 file
@@ -3664,14 +3630,14 @@ has-props
 
 3187
 
-a-icon-alt-arrow-up.png
+a-icon-alt-replace.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-a0840b70c8faf1d4ccb61e158418d6c6
+1b4e4acef0a7c58978c79ad8f92b9125
 2010-09-30T20:43:44.845331Z
 2299
 johnnyoffline
@@ -3696,7 +3662,7 @@ has-props
 
 
 
-356
+607
 
 a-special-caution.png
 file
@@ -3732,17 +3698,17 @@ has-props
 
 153
 
-a-icon-clock.png
+a-icon-alt-arrow-up.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-02663a3662ddd2142550a144833843f1
-2010-01-18T20:26:44.999464Z
-4
-tboutell
+a0840b70c8faf1d4ccb61e158418d6c6
+2010-09-30T20:43:44.845331Z
+2299
+johnnyoffline
 has-props
 
 
@@ -3764,7 +3730,7 @@ has-props
 
 
 
-351
+356
 
 a-icon-alt-pause.png
 file
@@ -3799,6 +3765,40 @@ has-props
 
 
 158
+
+a-icon-clock.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+02663a3662ddd2142550a144833843f1
+2010-01-18T20:26:44.999464Z
+4
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+351
 
 a-bg-volume-bars.png
 file
@@ -3868,40 +3868,6 @@ has-props
 
 3580
 
-a-icon-feed.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-33f43fa2486f747037624732d58f9cc4
-2010-09-30T20:43:44.845331Z
-2299
-johnnyoffline
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-407
-
 a-icon-alt-smart-slideshow.png
 file
 
@@ -3935,6 +3901,40 @@ has-props
 
 
 366
+
+a-icon-feed.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+33f43fa2486f747037624732d58f9cc4
+2010-09-30T20:43:44.845331Z
+2299
+johnnyoffline
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+407
 
 a-icon-arrow-right-solid-simple.png
 file
@@ -4004,17 +4004,17 @@ has-props
 
 4802
 
-a-icon-arrow-return.png
+a-icon-rss.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-8bd655e0199f836c1a6167d087453064
-2010-04-08T20:34:39.799819Z
-896
-johnnyoffline
+5b4a60dbd1e485468f54ccbfcc6eb9a3
+2010-01-18T20:26:44.999464Z
+4
+tboutell
 has-props
 
 
@@ -4036,7 +4036,7 @@ has-props
 
 
 
-219
+222
 
 a-icon-alt-unchecked.png
 file
@@ -4072,17 +4072,17 @@ has-props
 
 255
 
-a-icon-rss.png
+a-icon-arrow-return.png
 file
 
 
 
 
 2011-11-04T13:36:17.000000Z
-5b4a60dbd1e485468f54ccbfcc6eb9a3
-2010-01-18T20:26:44.999464Z
-4
-tboutell
+8bd655e0199f836c1a6167d087453064
+2010-04-08T20:34:39.799819Z
+896
+johnnyoffline
 has-props
 
 
@@ -4104,7 +4104,7 @@ has-props
 
 
 
-222
+219
 
 a-icon-arrow-toggle.png
 file
@@ -4174,40 +4174,6 @@ has-props
 
 834
 
-a-icon-close-small.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-6dc33b9bbc7b9e239a5819a735ee9342
-2010-01-19T15:02:56.423948Z
-11
-tboutell
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3179
-
 a-icon-button.png
 file
 
@@ -4241,6 +4207,40 @@ has-props
 
 
 507
+
+a-icon-close-small.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+6dc33b9bbc7b9e239a5819a735ee9342
+2010-01-19T15:02:56.423948Z
+11
+tboutell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3179
 
 asc-on.png
 file
@@ -4276,40 +4276,6 @@ has-props
 
 2924
 
-a-icon-drag.png
-file
-
-
-
-
-2011-11-04T13:36:17.000000Z
-3239a808945f6105034a8d9c844dcc54
-2010-03-29T17:29:59.668038Z
-757
-hillerj
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3094
-
 a-page-arrows-old.png
 file
 
@@ -4343,6 +4309,40 @@ has-props
 
 
 685
+
+a-icon-drag.png
+file
+
+
+
+
+2011-11-04T13:36:17.000000Z
+3239a808945f6105034a8d9c844dcc54
+2010-03-29T17:29:59.668038Z
+757
+hillerj
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3094
 
 a-icon-alt-history.png
 file

@@ -1,14 +1,14 @@
 10
 
 dir
-4283
+4287
 http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/lib/helper
 http://svn.apostrophenow.org
 
 
 
-2011-10-07T20:08:37.480376Z
-4218
+2011-11-04T21:36:32.415078Z
+4287
 tboutell
 has-props
 
@@ -32,10 +32,10 @@ file
 
 
 
-2011-11-04T13:36:14.000000Z
-3837c433678a39a7addfeacf42793935
-2011-10-07T20:08:37.480376Z
-4218
+2011-11-07T17:13:58.000000Z
+7eaa1dbcac6f96ac3beb3b5e18adf8b4
+2011-11-04T21:36:32.415078Z
+4287
 tboutell
 
 
@@ -58,7 +58,7 @@ tboutell
 
 
 
-29376
+29562
 
 FeedHelper.php
 file
